@@ -33,11 +33,11 @@ causation, uncertainty, getting to know the data, summarizing the data, and conf
 In this class, I hope to present the class with relatable role models from diverse backgrounds, especially those representing a diversity of marginalized identities. I want the class to see them as full people with humanizing information, including their research and their contributions to their field. For this effort, some resources I consulted include:  www.500queerscientists.com, www.500womenscientists.org, www.projectbiodiversify.org, www.diversifyeeb.org, www.scientistspotlights.org, www.skypeascientist.com, and www.blackintheivory.com. Source: https://doi.org/10.1093/biosci/biac013 
 
 ### Kimberly Lucas (September 29th)
-<img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-e1641572266862-750x1000-c-default.png" width="30%"> 
+<img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-e1641572266862-750x1000-c-default.png" width="15%"> 
 Kim is an academic-practitioner who is committed to community-driven civic research, innovation in city-university collaborations, and leveraging our collective expertise for the social good. Kim previously served as Interim Executive Director at Metrolab Network and Director of Civic Research for the City of Boston. Kim’s research focuses on early childhood policy and the child care market, and their practical experience includes over a decade of innovation in community-engaged research.
 
 ### Han Spinner (December 1st)
-<img src="[https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-e1641572266862-750x1000-c-default.png](https://avatars.githubusercontent.com/u/82895477?v=4)" width="30%"> 
+<img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-e1641572266862-750x1000-c-default.png" width="15%"> 
 I am Han Spinner, my pronouns are they/them, and I am a PhD candidate at Harvard in the lab of Debora Marks. I went to UC Berkeley (yay state schools!) and studied Genetics and Plant Biology with a minor in Food Systems. After undergrad, I worked at a CRISPR protein engineering startup called Scribe Therapeutics. In graduate school, my research focuses on machine learning and protein design. My guest lecture will describe some of the fundamental data analysis tools people use when doing research. I am very open to questions about anything and am looking forward to the conversation with your class.
 https://github.com/hanspinner and Twitter (@H__Spinner).
 
