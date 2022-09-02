@@ -46,7 +46,8 @@ Kim is an academic-practitioner who is committed to community-driven civic resea
 <img src="https://drive.google.com/file/d/1p3cthu28P4BNQfhr-IpYFuedlDBSw-c7/view?usp=sharing" width="15%"> 
 Sakeena Mihar is the CEO and co-founder of Savyn, an award-winning social impact venture for inclusive digital mental health care providing virtual PTSD therapies in multiple languages based in Toronto, Ontario. Savyn removes barriers to accessing mental health support to heal trauma for vulnerable groups like refugees, immigrants, veterans and other trauma survivors. Savyn has won the Desjardin Cooperathon - Social Impact award, PennyAppeal Social Accelerator fund and is currently being incubated at Biomedical Zone, a partnership with St Michael’s hospital, and Social Ventures Zone at Toronto Metropolitan University (TMU). Sakeena also wears other hijabs in addition to being a founder. Sakeena is an equity, inclusion and social justice consultant and trainer. She runs workshops on Islamophobia, bystander intervention, equity and inclusion issues for several organizations, startups and political parties. She is also a speaker on gendered Islamophobia and spoken at the White Privilege conference in Toronto and at other events. She co-foundedof the first Muslim Faculty and Staff community network at TMU, advocating for systemic changes and implementing policy changes.
 
-
+### Neslihan Wittek (November 17th) 
+<img src="https://www.bio.psy.ruhr-uni-bochum.de/images/members/Wittek.jpg" width="15%"> 
 
 ### Han Spinner (December 1st)
 <img src="https://avatars.githubusercontent.com/u/82895477?v=4" width="15%"> 
