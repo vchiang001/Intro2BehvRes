@@ -36,6 +36,18 @@ In this class, I hope to present the class with relatable role models from diver
 <img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-e1641572266862-750x1000-c-default.png" width="15%"> 
 Kim is an academic-practitioner who is committed to community-driven civic research, innovation in city-university collaborations, and leveraging our collective expertise for the social good. Kim previously served as Interim Executive Director at Metrolab Network and Director of Civic Research for the City of Boston. Kim’s research focuses on early childhood policy and the child care market, and their practical experience includes over a decade of innovation in community-engaged research.
 
+### Lakshmi Amrutha Killada (October 20th)
+<img src="https://idm.mit.edu/wp-content/uploads/2022/07/Killada-3591-scaled-e1657915644781.jpg" width="15%"> 
+
+### Najah Walton (November 3rd) 
+<img src="https://gsbs.tufts.edu/sites/default/files/walton_najah.png" width="15%"> 
+
+### Sakeena (November 15th)
+<img src="https://drive.google.com/file/d/1p3cthu28P4BNQfhr-IpYFuedlDBSw-c7/view?usp=sharing" width="15%"> 
+Sakeena Mihar is the CEO and co-founder of Savyn, an award-winning social impact venture for inclusive digital mental health care providing virtual PTSD therapies in multiple languages based in Toronto, Ontario. Savyn removes barriers to accessing mental health support to heal trauma for vulnerable groups like refugees, immigrants, veterans and other trauma survivors. Savyn has won the Desjardin Cooperathon - Social Impact award, PennyAppeal Social Accelerator fund and is currently being incubated at Biomedical Zone, a partnership with St Michael’s hospital, and Social Ventures Zone at Toronto Metropolitan University (TMU). Sakeena also wears other hijabs in addition to being a founder. Sakeena is an equity, inclusion and social justice consultant and trainer. She runs workshops on Islamophobia, bystander intervention, equity and inclusion issues for several organizations, startups and political parties. She is also a speaker on gendered Islamophobia and spoken at the White Privilege conference in Toronto and at other events. She co-foundedof the first Muslim Faculty and Staff community network at TMU, advocating for systemic changes and implementing policy changes.
+
+
+
 ### Han Spinner (December 1st)
 <img src="https://avatars.githubusercontent.com/u/82895477?v=4" width="15%"> 
 I am Han Spinner, my pronouns are they/them, and I am a PhD candidate at Harvard in the lab of Debora Marks. I went to UC Berkeley (yay state schools!) and studied Genetics and Plant Biology with a minor in Food Systems. After undergrad, I worked at a CRISPR protein engineering startup called Scribe Therapeutics. In graduate school, my research focuses on machine learning and protein design. My guest lecture will describe some of the fundamental data analysis tools people use when doing research. I am very open to questions about anything and am looking forward to the conversation with your class.
