@@ -27,12 +27,12 @@ reductionism, threats to internal validity, history, maturation, testing, instru
 causation, uncertainty, getting to know the data, summarizing the data, and confirming what the data reveal, stem-and-leaf display, measures of central tendency, measure of dispersion (vari- ability, range, standard deviation, standard error of the mean
 
 ## Guest Speakers
-<img src="https://academic.oup.com/view-large/figure/354985673/biac013fig1.jpg" width="50%"> 
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/AT%20Zemnick%20et%20al.%20MG%20Weber%20(2022)%20Bioscience.jpeg" width="50%"> 
 
 In this class, I hope to present the class with relatable role models from diverse backgrounds, especially those representing a diversity of marginalized identities. I want the class to see them as full people with humanizing information, including their research and their contributions to their field. For this effort, some resources I consulted include:  www.500queerscientists.com, www.500womenscientists.org, www.projectbiodiversify.org, www.diversifyeeb.org, www.scientistspotlights.org, www.skypeascientist.com, and www.blackintheivory.com. Source: https://doi.org/10.1093/biosci/biac013 
 
 ### Haoran Cai (September 20th)
-<img src="https://desmaraislab.scripts.mit.edu/lab/home/wp-content/uploads/2019/06/photo_2021-10-12_13-26-34-370x370.jpg" width="30%"> 
+<img src="https://desmaraislab.scripts.mit.edu/lab/home/wp-content/uploads/2019/06/photo_2021-10-12_13-26-34-370x370.jpg" width="20%"> 
 
 ### Kimberly Lucas (September 29th)
 <img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-e1641572266862-750x1000-c-default.png" width="15%"> 
@@ -60,7 +60,7 @@ https://github.com/hanspinner and Twitter (@H__Spinner).
 
 ## Sexual diversity examples to contextualise the concepts learnt
 
-<img src="https://www.researchgate.net/profile/Julia-Monk/publication/337334393/figure/fig1/AS:826653047525378@1574100853859/Examples-of-species-with-documented-SSB-demonstrate-the-widespread-distribution-of-SSB.jpg" width="50%"> 
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/JD%20Monk%20et%20al.%20CE%20McDonough%20(2019)%20Nat%20Ecol%20Evol.jpg" width="15%"> 
 
 Some of these examples were obtained from Evolution's Rainbow: A Queer Species Database Of 200+ Organisms https://www.genderinclusivebiology.com/newsletter/evolutions-rainbow-a-queer-species-database-of-200-organisms
 </p>
@@ -133,4 +133,4 @@ Repeatedly being in a bad romantic relationship is our fault.
 </p>
 
 ## DeepLabCut Mentors 
-<img src="https://pbs.twimg.com/media/Facqqk0UIAERzvj?format=jpg&name=large" width="50%"> 
+<img src="https://pbs.twimg.com/media/Facqqk0UIAERzvj?format=jpg&name=large" width="30%"> 
