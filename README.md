@@ -31,8 +31,8 @@ causation, uncertainty, getting to know the data, summarizing the data, and conf
 
 In this class, I hope to present the class with relatable role models from diverse backgrounds, especially those representing a diversity of marginalized identities. I want the class to see them as full people with humanizing information, including their research and their contributions to their field. For this effort, some resources I consulted include:  www.500queerscientists.com, www.500womenscientists.org, www.projectbiodiversify.org, www.diversifyeeb.org, www.scientistspotlights.org, www.skypeascientist.com, and www.blackintheivory.com. Source: https://doi.org/10.1093/biosci/biac013 
 
-### Haoran Cai (September 20th)
-<img src="https://desmaraislab.scripts.mit.edu/lab/home/wp-content/uploads/2019/06/photo_2021-10-12_13-26-34-370x370.jpg" width="20%"> 
+### *The speaker chose not to share public info (September 20th)
+
 
 ### Kimberly Lucas (September 29th)
 <img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-e1641572266862-750x1000-c-default.png" width="15%"> 
