@@ -6,6 +6,7 @@ Instructor: Vic Shao-Chih Chiang 蔣紹志 (he/him/his)
 
 ## Course Content
 <img src="https://media.newyorker.com/photos/61169a9284b38b85152f2136/master/w_2240,c_limit/210823_r38857.jpg" width="50%"> 
+Image source: https://www.newyorker.com/magazine/2021/08/23/why-is-it-so-hard-to-be-rational
 
 ### Introduction
 minorities in science, demarcation problem, scientific method, empirical approach, ethnocentricism, hypothesis, multimethod approach
@@ -27,7 +28,8 @@ reductionism, threats to internal validity, history, maturation, testing, instru
 causation, uncertainty, getting to know the data, summarizing the data, and confirming what the data reveal, stem-and-leaf display, measures of central tendency, measure of dispersion (vari- ability, range, standard deviation, standard error of the mean
 
 ## Guest Speakers
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/AT%20Zemnick%20et%20al.%20MG%20Weber%20(2022)%20Bioscience.jpeg" width="50%"> 
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/AT%20Zemnick%20et%20al.%20MG%20Weber%20(2022)%20Bioscience.jpeg" width="50%">
+Image source: https://doi.org/10.1093/biosci/biac013
 
 In this class, I hope to present the class with relatable role models from diverse backgrounds, especially those representing a diversity of marginalized identities. I want the class to see them as full people with humanizing information, including their research and their contributions to their field. For this effort, some resources I consulted include:  www.500queerscientists.com, www.500womenscientists.org, www.projectbiodiversify.org, www.diversifyeeb.org, www.scientistspotlights.org, www.skypeascientist.com, and www.blackintheivory.com. Source: https://doi.org/10.1093/biosci/biac013 
 
@@ -61,7 +63,8 @@ https://github.com/hanspinner and Twitter (@H__Spinner).
 
 ## Sexual diversity examples to contextualise the concepts learnt
 
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/JD%20Monk%20et%20al.%20CE%20McDonough%20(2019)%20Nat%20Ecol%20Evol.jpg" width="15%"> 
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/JD%20Monk%20et%20al.%20CE%20McDonough%20(2019)%20Nat%20Ecol%20Evol.jpg" width="50%"> 
+Image source: https://doi.org/10.1038/s41559-019-1019-7
 
 Some of these examples were obtained from Evolution's Rainbow: A Queer Species Database Of 200+ Organisms https://www.genderinclusivebiology.com/newsletter/evolutions-rainbow-a-queer-species-database-of-200-organisms
 </p>
@@ -91,6 +94,7 @@ Rosenwohl-Mack A, Tamar-Mattis S, Baratz AB, Dalke KB, Ittelson A, Zieselman K, 
 
 ## Debate Topics (25% of final grade)
 <img src="https://images.currentaffairs.org/2021/10/debate-1024x646.jpg" width="50%"> 
+Image source: https://www.currentaffairs.org/2021/10/why-we-should-teach-kids-to-debate
 
 This society prioritises facial appearance.
 </p>
@@ -117,6 +121,7 @@ Repeatedly being in a bad romantic relationship is our fault.
 
 ## Class Projects using DeepLabCut (25% of final grade)
 <img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1628250004229-KVYD7JJVHYEFDJ32L9VJ/DLClogo2021.jpg?format=1000w" width="50%"> 
+Image source: http://www.mackenziemathislab.org/deeplabcut 
 
 [All things DeepLabCut](http://www.mackenziemathislab.org/deeplabcut)
 </p>
@@ -132,6 +137,3 @@ Repeatedly being in a bad romantic relationship is our fault.
 
 [Outputs for your DeepLabCut data e.g. bodypart trajectories](https://deeplabcut.github.io/DeepLabCut/docs/standardDeepLabCut_UserGuide.html#k-plot-trajectories)
 </p>
-
-## DeepLabCut Mentors 
-<img src="https://pbs.twimg.com/media/Facqqk0UIAERzvj?format=jpg&name=large" width="30%"> 
