@@ -9,23 +9,23 @@ Instructor: Vic Shao-Chih Chiang 蔣紹志 (he/him/his)
 Image source: https://www.newyorker.com/magazine/2021/08/23/why-is-it-so-hard-to-be-rational
 
 ### Introduction
-minorities in science, demarcation problem, scientific method, empirical approach, ethnocentricism, hypothesis, multimethod approach
+Some concepts we cover: Observations can be theory-laden, Alternative avenues of knowledge beyond science, Racial & phenotypic bias in science, scientific method, empirical approach, ethnocentricism, hypothesis, multimethod approach
 ### The Scientific Method
-what counts as a good scientific explanation, control, experiment, independent/dependent variables, construct, operational definition, validity, reliability, correlation, causal inference, confounding, applied & basic research, scientific theory
+Some concepts we cover: Discrimination & ableism in science  , Can science determine causality? , Science is embedded in culture and values, Variables , Experiment , Causal inference, Validity, Theory
 ### Ethical Issues in the Conduct of Research
-effects of culture & values, neutrality & social accouintability, risk/benefit ratio, minimal risk, informed consent, privacy, deception, debriefing, plagiarism
+Some concepts we cover: Weaving indigenous views into the scientific method, Arabic contributions to modern science, Is the aim of science to determine ultimate truth?, Risk/benefit ratio, Informed consent, Deception, Debriefing, Plagiarism
 ### Observation
-validity of a general statement from specific instances, external validity, time sampling, situation sampling, naturalistic observation, participant observation, reactivity, structured observation, field experiment, i obstructive measures, physical traces, archival records, selective records, selective survival
+Some concepts we cover: Areas which science chooses to explore, Type of reasoning science achieve, What counts as good scientific explanation? , Naturalistic observation, External validity, Interobserver reliability, Selective survival, Demand characteristics
 ### Survey Research
-observer effects, correlational research, population, sample, representativeness, selection bias, probability sampling, simple random sampling, response rate bias, stratified random sampling, interview bias, cross sectional design, successive independent sample design
+Some concepts we cover: Problem of exclusive dominance of science, Marginalised minorities in science , Science is pervasive with uncertainties in outcomes and probability , Representativeness, Selection bias, Interviewer bias, Longitudinal design, Spurious relationship
 ### Independent Groups Designs
-untested essential assumptions, aims of science, internal validity, independent group design, random assignment, random group design, block randomization, threats to internal validity, mechanical & subject loss, experimenter effect, placebo control group, double blind procedure, replication, effect size
+Some concepts we cover: Essential untested assumptions in science, Problem with reductionism, Rationally admissible belief, Block randomisation, Double-blind procedure, Null hypothesis significance testing, Effect size, Replication
 ### Repeated Measures Designs
-alternatives to Western science in knowledge, repeated measures design, sensitivity, counterbalancing, differential transfer
+Some concepts we cover: Sources of knowledge & justified belief, Scepticisms in the possibility of knowledge , Knowledge-yielding within and outside of psychological states, Repeated measures designs, Sensitivity, Practice effects, Counterbalancing, Differential transfer 
 ### Quasi-Experimental Designs and Program Evaluation
-reductionism, threats to internal validity, history, maturation, testing, instrumentation, regression, subject attrition, selection, contamination, novelty effects, quasi-experiments, nonequivalent control group design, simple interrupted time-series design
+Some concepts we cover: knowledge independent and dependent of experience, Beliefs as subjective probabilities , Killing of knowledge systems under systemic oppression , History, Contamination, Program evaluation, Nonequivalent control group design, Maturation
 ### Data Analysis and Interpretation: Describing Data, Confidence Intervals, Correlation
-causation, uncertainty, getting to know the data, summarizing the data, and confirming what the data reveal, stem-and-leaf display, measures of central tendency, measure of dispersion (vari- ability, range, standard deviation, standard error of the mean
+Some concepts we cover: Indian pramana in modern science , Importance of the collective context, Institutions of science , Stages of data analysis, Measures of central tendency, Measures of dispersion, Confidence interval, Correlation
 
 ## Guest Speakers
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/AT%20Zemnick%20et%20al.%20MG%20Weber%20(2022)%20Bioscience.jpeg" width="50%">
@@ -39,6 +39,8 @@ In this class, I hope to present the class with relatable role models from diver
 ### Kimberly Lucas (September 29th)
 <img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-e1641572266862-750x1000-c-default.png" width="15%"> 
 Kim is an academic-practitioner who is committed to community-driven civic research, innovation in city-university collaborations, and leveraging our collective expertise for the social good. Kim previously served as Interim Executive Director at Metrolab Network and Director of Civic Research for the City of Boston. Kim’s research focuses on early childhood policy and the child care market, and their practical experience includes over a decade of innovation in community-engaged research.
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/IMG_2899.JPG" width="15%"> 
+Students with Professor Lucas (Diego Ruiz Tellode Meneses, Ridhikasri Kanniappan, Vitoria Gomesde Mattos Sousa) 
 
 ### Amrutha Killada (October 20th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Amrutha%20Killada.png" width="30%">
