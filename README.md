@@ -24,7 +24,7 @@ Some concepts we cover: Essential untested assumptions in science, Problem with 
 Some concepts we cover: Sources of knowledge & justified belief, Scepticisms in the possibility of knowledge , Knowledge-yielding within and outside of psychological states, Repeated measures designs, Sensitivity, Practice effects, Counterbalancing, Differential transfer 
 ### Quasi-Experimental Designs and Program Evaluation
 Some concepts we cover: knowledge independent and dependent of experience, Beliefs as subjective probabilities , Killing of knowledge systems under systemic oppression , History, Contamination, Program evaluation, Nonequivalent control group design, Maturation
-### Data Analysis and Interpretation: Describing Data, Confidence Intervals, Correlation
+### Data Analysis and Interpretation
 Some concepts we cover: Indian pramana in modern science , Importance of the collective context, Institutions of science , Stages of data analysis, Measures of central tendency, Measures of dispersion, Confidence interval, Correlation
 
 ## Guest Speakers
@@ -39,7 +39,7 @@ In this class, I hope to present the class with relatable role models from diver
 ### Kimberly Lucas (September 29th)
 <img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-e1641572266862-750x1000-c-default.png" width="15%"> 
 Kim is an academic-practitioner who is committed to community-driven civic research, innovation in city-university collaborations, and leveraging our collective expertise for the social good. Kim previously served as Interim Executive Director at Metrolab Network and Director of Civic Research for the City of Boston. Kim’s research focuses on early childhood policy and the child care market, and their practical experience includes over a decade of innovation in community-engaged research.
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/IMG_2899.JPG" width="15%"> 
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/IMG_2899.JPG" width="50%"> 
 Students with Professor Lucas (Diego Ruiz Tellode Meneses, Ridhikasri Kanniappan, Vitoria Gomesde Mattos Sousa) 
 
 ### Amrutha Killada (October 20th)
