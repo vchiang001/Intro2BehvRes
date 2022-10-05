@@ -37,7 +37,7 @@ In this class, I hope to present the class with relatable role models from diver
 
 
 ### Kimberly Lucas (September 29th)
-<img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-e1641572266862-750x1000-c-default.png" width="15%"> 
+<img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-Headshot-1-scaled-600x800-c-default.jpg" width="15%"> 
 Kim is an academic-practitioner who is committed to community-driven civic research, innovation in city-university collaborations, and leveraging our collective expertise for the social good. Kim previously served as Interim Executive Director at Metrolab Network and Director of Civic Research for the City of Boston. Kim’s research focuses on early childhood policy and the child care market, and their practical experience includes over a decade of innovation in community-engaged research.
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/IMG_2899.JPG" width="50%"> 
 Students with Professor Lucas (Diego Ruiz Tellode Meneses, Ridhikasri Kanniappan, Vitoria Gomesde Mattos Sousa) 
