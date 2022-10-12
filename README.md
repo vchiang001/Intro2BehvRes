@@ -33,14 +33,14 @@ Image source: https://doi.org/10.1093/biosci/biac013
 
 In this class, I hope to present the class with relatable role models from diverse backgrounds, especially those representing a diversity of marginalized identities. I want the class to see them as full people with humanizing information, including their research and their contributions to their field. For this effort, some resources I consulted include:  www.500queerscientists.com, www.500womenscientists.org, www.projectbiodiversify.org, www.diversifyeeb.org, www.scientistspotlights.org, www.skypeascientist.com, and www.blackintheivory.com. Source: https://doi.org/10.1093/biosci/biac013 
 
-### *The speaker chose not to share public info (September 20th)
-
 
 ### Kimberly Lucas (September 29th)
 <img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-Headshot-1-scaled-600x800-c-default.jpg" width="15%"> 
 Kim is an academic-practitioner who is committed to community-driven civic research, innovation in city-university collaborations, and leveraging our collective expertise for the social good. Kim previously served as Interim Executive Director at Metrolab Network and Director of Civic Research for the City of Boston. Kim’s research focuses on early childhood policy and the child care market, and their practical experience includes over a decade of innovation in community-engaged research.
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/IMG_2899.JPG" width="50%"> 
 Students with Professor Lucas (Diego Ruiz Tellode Meneses, Ridhikasri Kanniappan, Vitoria Gomesde Mattos Sousa) 
+
+### *The speaker chose not to share public info (October 13th)
 
 ### Amrutha Killada (October 20th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Amrutha%20Killada.png" width="30%">
