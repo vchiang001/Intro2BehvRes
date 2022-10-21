@@ -30,7 +30,7 @@ Some concepts we cover: Indian pramana in modern science , Importance of the col
 ## Guest Speakers
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/AT%20Zemnick%20et%20al.%20MG%20Weber%20(2022)%20Bioscience.jpeg" width="50%">
 Image source: https://doi.org/10.1093/biosci/biac013
-
+</p>
 In this class, I hope to present the class with relatable role models from diverse backgrounds, especially those representing a diversity of marginalized identities. I want the class to see them as full people with humanizing information, including their research and their contributions to their field. For this effort, some resources I consulted include:  www.500queerscientists.com, www.500womenscientists.org, www.projectbiodiversify.org, www.diversifyeeb.org, www.scientistspotlights.org, www.skypeascientist.com, and www.blackintheivory.com. Source: https://doi.org/10.1093/biosci/biac013 
 
 
@@ -71,7 +71,7 @@ https://github.com/hanspinner and Twitter (@H__Spinner).
 
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/JD%20Monk%20et%20al.%20CE%20McDonough%20(2019)%20Nat%20Ecol%20Evol.jpg" width="50%"> 
 Image source: https://doi.org/10.1038/s41559-019-1019-7
-
+</p>
 Some of these examples were obtained from Evolution's Rainbow: A Queer Species Database Of 200+ Organisms https://www.genderinclusivebiology.com/newsletter/evolutions-rainbow-a-queer-species-database-of-200-organisms
 </p>
 
@@ -98,19 +98,19 @@ Nobuaki Mizumoto, Thomas Bourguignon, Nathan W. Bailey, Ancestral sex-role plast
 Rosenwohl-Mack A, Tamar-Mattis S, Baratz AB, Dalke KB, Ittelson A, Zieselman K, et al. (2020) A national study on the physical and mental health of intersex adults in the U.S. PLoS ONE 15(10): e0240088. https://doi.org/10.1371/journal.pone.0240088
 </p>
 
-Han H, Yang S, Li J, Zhao J, Wei H, Ha S, Li W, Li C, Quan K. Intersex goats show different gene expression levels in the hypothalamus and pituitary compared with non-intersex goats based on RNA-Seq. Vet Med Sci. 2022 Jan;8(1):367-376. doi: 10.1002/vms3.672. Epub 2021 Nov 25. PMID: 34822225; PMCID: PMC8788962.
+Han H, Yang S, Li J, Zhao J, Wei H, Ha S, Li W, Li C, Quan K. Intersex goats show different gene expression levels in the hypothalamus and pituitary compared with non-intersex goats based on RNA-Seq. Vet Med Sci. 2022 Jan;8(1):367-376. doi: 10.1002/vms3.672. Epub 2021 Nov 25. PMID: 34822225; PMCID: PMC8788962. https://doi.org/10.1002/vms3.672
 </p>
 
-Arnoldussen M, van der Miesen AIR, Elzinga WS, Alberse AE, Popma A, Steensma TD, de Vries ALC. Self-Perception of Transgender Adolescents After Gender-Affirming Treatment: A Follow-Up Study into Young Adulthood. LGBT Health. 2022 May-Jun;9(4):238-246. doi: 10.1089/lgbt.2020.0494. Epub 2022 Apr 26. PMID: 35475663.
+Arnoldussen M, van der Miesen AIR, Elzinga WS, Alberse AE, Popma A, Steensma TD, de Vries ALC. Self-Perception of Transgender Adolescents After Gender-Affirming Treatment: A Follow-Up Study into Young Adulthood. LGBT Health. 2022 May-Jun;9(4):238-246. doi: 10.1089/lgbt.2020.0494. Epub 2022 Apr 26. PMID: 35475663. https://doi.org/10.1089/lgbt.2020.0494
 </p>
 
-Fry KM, Grzanka PR, Miles JR, DeVore EN. Is Essentialism Essential? Reducing Homonegative Prejudice by Targeting Diverse Sexual Orientation Beliefs. Arch Sex Behav. 2020 Jul;49(5):1725-1739. doi: 10.1007/s10508-020-01706-x. Epub 2020 Apr 30. PMID: 32356084.
+Fry KM, Grzanka PR, Miles JR, DeVore EN. Is Essentialism Essential? Reducing Homonegative Prejudice by Targeting Diverse Sexual Orientation Beliefs. Arch Sex Behav. 2020 Jul;49(5):1725-1739. doi: 10.1007/s10508-020-01706-x. Epub 2020 Apr 30. PMID: 32356084. https://doi.org/10.1007/s10508-020-01706-x
 </p>
 
 ## Group debating using primary research articles to support arguments (25% of final grade)
 <img src="https://images.currentaffairs.org/2021/10/debate-1024x646.jpg" width="50%"> 
 Image source: https://www.currentaffairs.org/2021/10/why-we-should-teach-kids-to-debate
-
+</p>
 | Debate Topic  | Starting Vote: PRO | Starting Vote: OPP | Closing Vote: PRO | Closing Vote: OPP
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | This society prioritises facial appearance.  | Practice Only   |  Practice Only  |  Practice Only  |  Practice Only  |
@@ -125,6 +125,7 @@ Image source: https://www.currentaffairs.org/2021/10/why-we-should-teach-kids-to
 ## Group Projects using DeepLabCut (25% of final grade)
 <img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1628250004229-KVYD7JJVHYEFDJ32L9VJ/DLClogo2021.jpg?format=1000w" width="50%"> 
 Image source: http://www.mackenziemathislab.org/deeplabcut 
+</p>
 
 [All things DeepLabCut](http://www.mackenziemathislab.org/deeplabcut)
 </p>
@@ -141,7 +142,10 @@ Image source: http://www.mackenziemathislab.org/deeplabcut
 [Outputs for your DeepLabCut data e.g. bodypart trajectories](https://deeplabcut.github.io/DeepLabCut/docs/standardDeepLabCut_UserGuide.html#k-plot-trajectories)
 </p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="15%"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="15%"> 
-Project submissions using Github and Jupyter Notebook 
+<p float="left">
+  <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" width="15%"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="15%"> 
+</p>
+
+Project submissions using [Github](http://github.com) and [Jupyter Notebook](https://jupyter.org/) 
 </p>
