@@ -45,6 +45,10 @@ Students with Professor Lucas (Diego Ruiz Tellode Meneses, Ridhikasri Kanniappan
 ### Amrutha Killada (October 20th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Amrutha%20Killada.png" width="30%">
 Amrutha Killada has experience in building and managing digital products. She has enjoyed working in various industries throughout her career in Pharmaceuticals, Healthcare, and Management Consulting and also worked as an Entrepreneur in Residence at Babson College. She has pursued a Master of Science in Engineering and Management (IDM) at the Massachusetts Institute of Technology(MIT), studied Product Design Engineering Management and Human-centered Design Process, and worked as a Research Assistant at MIT's Education lab. Previously Amrutha completed MBA in Global business management and bachelor's in Electronics Engineering.
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Amrutha.JPG" width="50%"> 
+Students with Amrutha (Diego Ruiz Tellode Meneses, Ridhikasri Kanniappan, Teddy Adams, Aidan McGinnis, Lenira Teixeira, Arianna Curry)
+
+### (October 27th) 
 
 ### Najah Walton (November 3rd) 
 <img src="https://gsbs.tufts.edu/sites/default/files/walton_najah.png" width="15%"> 
@@ -94,34 +98,31 @@ Nobuaki Mizumoto, Thomas Bourguignon, Nathan W. Bailey, Ancestral sex-role plast
 Rosenwohl-Mack A, Tamar-Mattis S, Baratz AB, Dalke KB, Ittelson A, Zieselman K, et al. (2020) A national study on the physical and mental health of intersex adults in the U.S. PLoS ONE 15(10): e0240088. https://doi.org/10.1371/journal.pone.0240088
 </p>
 
-## Debate Topics (25% of final grade)
+Han H, Yang S, Li J, Zhao J, Wei H, Ha S, Li W, Li C, Quan K. Intersex goats show different gene expression levels in the hypothalamus and pituitary compared with non-intersex goats based on RNA-Seq. Vet Med Sci. 2022 Jan;8(1):367-376. doi: 10.1002/vms3.672. Epub 2021 Nov 25. PMID: 34822225; PMCID: PMC8788962.
+</p>
+
+Arnoldussen M, van der Miesen AIR, Elzinga WS, Alberse AE, Popma A, Steensma TD, de Vries ALC. Self-Perception of Transgender Adolescents After Gender-Affirming Treatment: A Follow-Up Study into Young Adulthood. LGBT Health. 2022 May-Jun;9(4):238-246. doi: 10.1089/lgbt.2020.0494. Epub 2022 Apr 26. PMID: 35475663.
+</p>
+
+Fry KM, Grzanka PR, Miles JR, DeVore EN. Is Essentialism Essential? Reducing Homonegative Prejudice by Targeting Diverse Sexual Orientation Beliefs. Arch Sex Behav. 2020 Jul;49(5):1725-1739. doi: 10.1007/s10508-020-01706-x. Epub 2020 Apr 30. PMID: 32356084.
+</p>
+
+## Group debating using primary research articles to support arguments (25% of final grade)
 <img src="https://images.currentaffairs.org/2021/10/debate-1024x646.jpg" width="50%"> 
 Image source: https://www.currentaffairs.org/2021/10/why-we-should-teach-kids-to-debate
 
-This society prioritises facial appearance.
-</p>
-
-Immortality is a good thing. 
-</p>
-
-Falling in love with AI is considered love. 
-</p>
-
-The failures in life are worth thanking. 
-</p>
-
-We should drink a potion that eradicates sadness. 
-</p>
-
-Calling mum a superwoman is a praise. 
-</p>
-
-Repeatedly being in a bad romantic relationship is our fault. 
-</p>
+| Debate Topic  | Starting Vote: PRO | Starting Vote: OPP | Closing Vote: PRO | Closing Vote: OPP
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| This society prioritises facial appearance.  | Practice Only   |  Practice Only  |  Practice Only  |  Practice Only  |
+| Immortality is a good thing.   |  32%  |  68%  |  25%  | 75%   |
+| Falling in love with AI is considered love. |  40%  |  60%  | 36%   |  36%  |
+| The failures in life are worth thanking. | 73%   |  27%  |  68%  |  32%  |
+| We should drink a potion that eradicates sadness. |    |    |    |    |
+| Calling mum a superwoman is a praise. |    |    |    |    |
+| Repeatedly being in a bad romantic relationship is our fault. |    |    |    |    |
 
 
-
-## Class Projects using DeepLabCut (25% of final grade)
+## Group Projects using DeepLabCut (25% of final grade)
 <img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1628250004229-KVYD7JJVHYEFDJ32L9VJ/DLClogo2021.jpg?format=1000w" width="50%"> 
 Image source: http://www.mackenziemathislab.org/deeplabcut 
 
@@ -138,4 +139,9 @@ Image source: http://www.mackenziemathislab.org/deeplabcut
 </p>
 
 [Outputs for your DeepLabCut data e.g. bodypart trajectories](https://deeplabcut.github.io/DeepLabCut/docs/standardDeepLabCut_UserGuide.html#k-plot-trajectories)
+</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="15%"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="15%"> 
+Project submissions using Github and Jupyter Notebook 
 </p>
