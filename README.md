@@ -110,7 +110,7 @@ Fry KM, Grzanka PR, Miles JR, DeVore EN. Is Essentialism Essential? Reducing Hom
 ## Group debating using primary research articles to support arguments (25% of final grade)
 <img src="https://images.currentaffairs.org/2021/10/debate-1024x646.jpg" width="50%"> 
 Image source: https://www.currentaffairs.org/2021/10/why-we-should-teach-kids-to-debate
-</p>
+
 | Debate Topic  | Starting Vote: PRO | Starting Vote: OPP | Closing Vote: PRO | Closing Vote: OPP
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | This society prioritises facial appearance.  | Practice Only   |  Practice Only  |  Practice Only  |  Practice Only  |
