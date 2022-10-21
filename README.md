@@ -111,7 +111,7 @@ Fry KM, Grzanka PR, Miles JR, DeVore EN. Is Essentialism Essential? Reducing Hom
 <img src="https://images.currentaffairs.org/2021/10/debate-1024x646.jpg" width="50%"> 
 Image source: https://www.currentaffairs.org/2021/10/why-we-should-teach-kids-to-debate
 
-| Debate Topic  | Starting Vote: PRO | Starting Vote: OPP | Closing Vote: PRO | Closing Vote: OPP
+| Debate Motion  | Starting Vote: PRO | Starting Vote: OPP | Closing Vote: PRO | Closing Vote: OPP
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | This society prioritises facial appearance.  | Practice Only   |  Practice Only  |  Practice Only  |  Practice Only  |
 | Immortality is a good thing.   |  32%  |  68%  |  25%  | 75%   |
