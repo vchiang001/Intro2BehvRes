@@ -55,7 +55,7 @@ Students with Amrutha (Diego Ruiz Tellode Meneses, Ridhikasri Kanniappan, Teddy 
 
 ### Sakeena Mihar (November 15th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Sakeena_Mihar.jpg" width="30%"> 
-Sakeena Mihar is the CEO and co-founder of Savyn, an award-winning social impact venture for inclusive digital mental health care providing virtual PTSD therapies in multiple languages based in Toronto, Ontario. Savyn removes barriers to accessing mental health support to heal trauma for vulnerable groups like refugees, immigrants, veterans and other trauma survivors. Savyn has won the Desjardin Cooperathon - Social Impact award, PennyAppeal Social Accelerator fund and is currently being incubated at Biomedical Zone, a partnership with St Michael’s hospital, and Social Ventures Zone at Toronto Metropolitan University (TMU). Sakeena also wears other hijabs in addition to being a founder. Sakeena is an equity, inclusion and social justice consultant and trainer. She runs workshops on Islamophobia, bystander intervention, equity and inclusion issues for several organizations, startups and political parties. She is also a speaker on gendered Islamophobia and spoken at the White Privilege conference in Toronto and at other events. She co-foundedof the first Muslim Faculty and Staff community network at TMU, advocating for systemic changes and implementing policy changes.
+Sakeena Mihar is the CEO and co-founder of Savyn, an award-winning social impact venture for inclusive digital mental health care providing virtual PTSD therapies in multiple languages based in Toronto, Ontario. Savyn removes barriers to accessing mental health support to heal trauma for vulnerable groups like refugees, immigrants, veterans and other trauma survivors. Savyn has won the Desjardin Cooperathon - Social Impact award, PennyAppeal Social Accelerator fund and is currently being incubated at Biomedical Zone, a partnership with St Michael’s hospital, and Social Ventures Zone at Toronto Metropolitan University (TMU). Sakeena also wears other hijabs in addition to being a founder. Sakeena is an equity, inclusion and social justice consultant and trainer. She runs workshops on Islamophobia, bystander intervention, equity and inclusion issues for several organizations, startups and political parties. She is also a speaker on gendered Islamophobia and spoken at the White Privilege conference in Toronto and at other events. She co-founded the first Muslim Faculty and Staff community network at TMU, advocating for systemic changes and implementing policy changes.
 
 ### Neslihan Wittek (November 17th) 
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Neslihan_Wittek.jpg" width="30%"> 
@@ -115,7 +115,7 @@ Image source: https://www.currentaffairs.org/2021/10/why-we-should-teach-kids-to
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | This society prioritises facial appearance.  | Practice Only   |  Practice Only  |  Practice Only  |  Practice Only  |
 | Immortality is a good thing.   |  32%  |  68%  |  25%  | 75%   |
-| Falling in love with AI is considered love. |  40%  |  60%  | 36%   |  36%  |
+| Falling in love with AI is considered love. |  40%  |  60%  | 36%   |  64%  |
 | The failures in life are worth thanking. | 73%   |  27%  |  68%  |  32%  |
 | We should drink a potion that eradicates sadness. |    |    |    |    |
 | Calling mum a superwoman is a praise. |    |    |    |    |
@@ -128,6 +128,9 @@ Image source: http://www.mackenziemathislab.org/deeplabcut
 </p>
 
 [All things DeepLabCut](http://www.mackenziemathislab.org/deeplabcut)
+</p>
+
+[Get help with DeepLabCut](https://deeplabcut.github.io/DeepLabCut/README.html#be-part-of-the-dlc-community)
 </p>
 
 [Installation: how to install DeepLabCut](https://deeplabcut.github.io/DeepLabCut/docs/installation.html)
