@@ -122,7 +122,7 @@ Image source: https://www.currentaffairs.org/2021/10/why-we-should-teach-kids-to
 | Repeatedly being in a bad romantic relationship is our fault. |    |    |    |    |
 
 
-## Group Projects using DeepLabCut (25% of final grade)
+## Group Projects using DeepLabCut on wildlife animals (25% of final grade)
 <img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1628250004229-KVYD7JJVHYEFDJ32L9VJ/DLClogo2021.jpg?format=1000w" width="50%"> 
 Image source: http://www.mackenziemathislab.org/deeplabcut 
 </p>
