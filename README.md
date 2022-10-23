@@ -148,7 +148,7 @@ Image source: http://www.mackenziemathislab.org/deeplabcut
 [DeepLabCut training & analysis using Neuroscience Cloud Analysis As a Service (NeuroCAAS)](http://neurocaas.org/analysis/3)
 </p>
 
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/NeuroCAAS.jpg" width="15%"> 
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/NeuroCAAS.jpg" width="30%"> 
 Image source: https://doi.org/10.1016/j.neuron.2022.06.018
 </p>
 
