@@ -98,13 +98,13 @@ Nobuaki Mizumoto, Thomas Bourguignon, Nathan W. Bailey, Ancestral sex-role plast
 Rosenwohl-Mack A, Tamar-Mattis S, Baratz AB, Dalke KB, Ittelson A, Zieselman K, et al. (2020) A national study on the physical and mental health of intersex adults in the U.S. PLoS ONE 15(10): e0240088. https://doi.org/10.1371/journal.pone.0240088
 </p>
 
-Han H, Yang S, Li J, Zhao J, Wei H, Ha S, Li W, Li C, Quan K. Intersex goats show different gene expression levels in the hypothalamus and pituitary compared with non-intersex goats based on RNA-Seq. Vet Med Sci. 2022 Jan;8(1):367-376. doi: 10.1002/vms3.672. Epub 2021 Nov 25. PMID: 34822225; PMCID: PMC8788962. https://doi.org/10.1002/vms3.672
+Han H, Yang S, Li J, Zhao J, Wei H, Ha S, Li W, Li C, Quan K. Intersex goats show different gene expression levels in the hypothalamus and pituitary compared with non-intersex goats based on RNA-Seq. Vet Med Sci. 2022 Jan;8(1):367-376. https://doi.org/10.1002/vms3.672
 </p>
 
-Arnoldussen M, van der Miesen AIR, Elzinga WS, Alberse AE, Popma A, Steensma TD, de Vries ALC. Self-Perception of Transgender Adolescents After Gender-Affirming Treatment: A Follow-Up Study into Young Adulthood. LGBT Health. 2022 May-Jun;9(4):238-246. doi: 10.1089/lgbt.2020.0494. Epub 2022 Apr 26. PMID: 35475663. https://doi.org/10.1089/lgbt.2020.0494
+Arnoldussen M, van der Miesen AIR, Elzinga WS, Alberse AE, Popma A, Steensma TD, de Vries ALC. Self-Perception of Transgender Adolescents After Gender-Affirming Treatment: A Follow-Up Study into Young Adulthood. LGBT Health. 2022 May-Jun;9(4):238-246. https://doi.org/10.1089/lgbt.2020.0494
 </p>
 
-Fry KM, Grzanka PR, Miles JR, DeVore EN. Is Essentialism Essential? Reducing Homonegative Prejudice by Targeting Diverse Sexual Orientation Beliefs. Arch Sex Behav. 2020 Jul;49(5):1725-1739. doi: 10.1007/s10508-020-01706-x. Epub 2020 Apr 30. PMID: 32356084. https://doi.org/10.1007/s10508-020-01706-x
+Fry KM, Grzanka PR, Miles JR, DeVore EN. Is Essentialism Essential? Reducing Homonegative Prejudice by Targeting Diverse Sexual Orientation Beliefs. Arch Sex Behav. 2020 Jul;49(5):1725-1739. https://doi.org/10.1007/s10508-020-01706-x
 </p>
 
 ## Group debating using primary research articles to support arguments (25% of final grade)
@@ -143,6 +143,13 @@ Image source: http://www.mackenziemathislab.org/deeplabcut
 </p>
 
 [Outputs for your DeepLabCut data e.g. bodypart trajectories](https://deeplabcut.github.io/DeepLabCut/docs/standardDeepLabCut_UserGuide.html#k-plot-trajectories)
+</p>
+
+[DeepLabCut training & analysis using Neuroscience Cloud Analysis As a Service (NeuroCAAS)](http://neurocaas.org/analysis/3)
+</p>
+
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/NeuroCAAS.jpg" width="15%"> 
+Image source: https://doi.org/10.1016/j.neuron.2022.06.018
 </p>
 
 <p float="left">
