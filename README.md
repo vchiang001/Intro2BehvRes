@@ -51,6 +51,8 @@ Students with Amrutha (Diego Ruiz Tellode Meneses, Ridhikasri Kanniappan, Teddy 
 ### Erinda Morina (October 27th) 
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/ErindaMorina.jpg" width="20%">
 Erinda Morina is a fifth year PhD candidate in the Developmental and Brain Science Program at the University of Massachusetts Boston. She holds a BS in Psychology from University of Massachusetts Boston, and a second BS in Public Health from University of Medicine, Tirana, Albania. Erinda’s research interest focuses on how cognitive and neural mechanism shape our perception of the world, specifically the perception of social and emotional information. In addition, she is also interested in the developmental trajectory of such cognitive and neural mechanisms.
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Erinda.JPG" width="50%"> 
+Students with Erinda (Diego Ruiz Tellode Meneses, Teddy Adams, Aidan McGinnis, Sumaya Abdullahi, Kianna Savage)
 
 ### Najah Walton (November 3rd) 
 <img src="https://gsbs.tufts.edu/sites/default/files/walton_najah.png" width="15%"> 
