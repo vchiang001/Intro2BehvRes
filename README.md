@@ -54,8 +54,9 @@ Erinda Morina is a fifth year PhD candidate in the Developmental and Brain Scien
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Erinda.JPG" width="50%"> 
 Students with Erinda (Diego Ruiz Tellode Meneses, Teddy Adams, Aidan McGinnis, Sumaya Abdullahi, Kianna Savage)
 
-### Najah Walton (November 3rd) 
-<img src="https://gsbs.tufts.edu/sites/default/files/walton_najah.png" width="15%"> 
+### Annastasia Martineau (November 10th)  
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Annastasia%20Martineau.jpg" width="20%">
+Annastasia Martineau, M.Ed., is a third-year Ed.S. student at the University of Massachusetts, Boston. Her field interests include early education, LGBTQ+ students, early literacy, and behavioral health. She is currently working as a Boston Public Schools School Psychology Intern, and is placed at the Roosevelt K-8 and Chittick Elementary School. As a National Association of School Psychologists Graduate Student Leader, she facilitates presentations to high school and undergrad students in order to introduce them to school psychology as a career.
 
 ### Sakeena Mihar (November 15th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Sakeena_Mihar.jpg" width="30%"> 
