@@ -85,6 +85,8 @@ Sakeena Mihar is the CEO and co-founder of Savyn, an award-winning social impact
 ### Aleen Shakeel (November 15th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Aleen_Shakeel.png" width="15%"> 
 Aleen is a graduate from the Biomedical Sciences program at Toronto Metropolitan University. Throughout her early career, she has explored different pathways in science, such as using computational biology to visualize mutant proteins, science outreach techniques to engage youth with climate change, and mental health innovation to improve the lives of marginalized trauma victims. Particularly passionate about her role as a lead scientist for Savyn Tech, a mental health start-up in Toronto, Aleen will discuss how topics such as repeated measures designs, practice effects and counterbalancing are important considerations for Savyn’s ongoing clinical studies to validate a novel digital therapy platform.
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Aleen.jpg" width="50%"> 
+Students with Aleen
 
 ### Neslihan Wittek (November 17th) 
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Neslihan_Wittek.jpg" width="30%"> 
