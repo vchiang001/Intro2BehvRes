@@ -31,7 +31,22 @@ Some concepts we cover: Indian pramana in modern science , Importance of the col
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/AT%20Zemnick%20et%20al.%20MG%20Weber%20(2022)%20Bioscience.jpeg" width="50%">
 Image source: https://doi.org/10.1093/biosci/biac013
 </p>
-In this class, I hope to present the class with relatable role models from diverse backgrounds, especially those representing a diversity of marginalized identities. I want the class to see them as full people with humanizing information, including their research and their contributions to their field. For this effort, some resources I consulted include:  www.500queerscientists.com, www.500womenscientists.org, www.projectbiodiversify.org, www.diversifyeeb.org, www.scientistspotlights.org, www.skypeascientist.com, and www.blackintheivory.com. Source: https://doi.org/10.1093/biosci/biac013 
+In this class, I hope to present the class with relatable role models from diverse backgrounds, especially those representing a diversity of marginalized identities. I want the class to see them as full people with humanizing information, including their research and their contributions to their field. For this effort, some resources I consulted include:
+- [500 Queer Scientists](www.500queerscientists.com)
+- [DiversifyPlantSci](https://docs.google.com/spreadsheets/d/1ygduel8h-BSq1irE-guLD-CbFrSHdykHHXFGt5PiW9Y/edit#gid=1813523959)
+- [100 inspiring Hispanic/Latinx scientists in America](https://crosstalk.cell.com/blog/100-inspiring-hispanic-latinx-scientists-in-america)
+- [Diversify ecologists and evolutionary biologists](https://diversifyeeb.com/)
+- [Scientist Spotlights](www.scientistspotlights.org)
+- [Skype a Scientist](www.skypeascientist.com)
+- [Black in the Ivory](https://blackintheivory.net/)
+- [American Society for Cell Biology (ASCB) Women in Cell Biology and Minority Affairs Committee](www.ascb.org/career-development/speaker-referral-lists/)
+- [Black Neuroscience PI](https://docs.google.com/spreadsheets/d/1Fbrot1qV0bqYREFYNepQiV8toT1GDDw9y7Nak_PyaZ4/edit#gid=0) 
+- [1,000 inspiring Black scientists in America](https://crosstalk.cell.com/blog/1000-inspiring-black-scientists-in-america)
+- [Spark Society's Database of Cognitive Scientists of Color](https://docs.google.com/spreadsheets/d/1188aq_e2FXv7qvbkrmlT3-OUT47JKU2UjY2FFt1_Y24/edit?fbclid=IwAR2TcnXFuRXAW1Iyy61drRdw9cM5vgzCM3Unb17pWXQxhJsJfblIIMwTO9w#gid=0) 
+- [Leading Edge Initiative](https://www.leadingedgesymposium.org/directory/) 
+- [The Outlist of Lesbian, Gay, Bisexual, Transgender, Intersex, Queer, and Ally Astronomers!](https://astro-outlist.github.io/) 
+- [Black Women in Biology, Ecology, Evolution, and Marine Science](https://docs.google.com/spreadsheets/d/1chSLhqclJbOEHrkk-0gEp_73bR54BepM133LJW2p54o/edit#gid=0)
+- [Databases of Databases of Diverse Speakers in STEM](https://docs.google.com/document/u/1/d/e/2PACX-1vSlvHTZtOc6wG5C9xEc-bAIYofpeDHVjrrVc7Q_5IQdmXcLeaYd27nhoJD9jub_q-qAILxHknMGbggb/pub) 
 
 
 ### Kimberly Lucas (September 29th)
@@ -66,6 +81,10 @@ Students with Gray & Annastasia (Diego Ruiz Tellode Meneses, Kianna Savage, Jeff
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Sakeena_Mihar.jpg" width="30%"> 
 Sakeena Mihar is the CEO and co-founder of Savyn, an award-winning social impact venture for inclusive digital mental health care providing virtual PTSD therapies in multiple languages based in Toronto, Ontario. Savyn removes barriers to accessing mental health support to heal trauma for vulnerable groups like refugees, immigrants, veterans and other trauma survivors. Savyn has won the Desjardin Cooperathon - Social Impact award, PennyAppeal Social Accelerator fund and is currently being incubated at Biomedical Zone, a partnership with St Michael’s hospital, and Social Ventures Zone at Toronto Metropolitan University (TMU). Sakeena also wears other hijabs in addition to being a founder. Sakeena is an equity, inclusion and social justice consultant and trainer. She runs workshops on Islamophobia, bystander intervention, equity and inclusion issues for several organizations, startups and political parties. She is also a speaker on gendered Islamophobia and spoken at the White Privilege conference in Toronto and at other events. She co-founded the first Muslim Faculty and Staff community network at TMU, advocating for systemic changes and implementing policy changes.
 
+### Aleen Shakeel (November 15th)
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Aleen_Shakeel.png" width="30%"> 
+Aleen is a graduate from the Biomedical Sciences program at Toronto Metropolitan University. Throughout her early career, she has explored different pathways in science, such as using computational biology to visualize mutant proteins, science outreach techniques to engage youth with climate change, and mental health innovation to improve the lives of marginalized trauma victims. Particularly passionate about her role as a lead scientist for Savyn Tech, a mental health start-up in Toronto, Aleen will discuss how topics such as repeated measures designs, practice effects and counterbalancing are important considerations for Savyn’s ongoing clinical studies to validate a novel digital therapy platform.
+
 ### Neslihan Wittek (November 17th) 
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Neslihan_Wittek.jpg" width="30%"> 
 Postdoctoral researcher at the biopsychology department of the Ruhr University Bochum. She focuses on pigeons' decision-making and self-recognition. While doing behavioral experiments, she also explores challenging analyzing methods and the field of data science. That is also one of the reasons why she is interested in open-source technology ( which helps her not get lost in the thorny paths and thick forests of scientific computing :)) The field of behavioral sciences is currently taken by storm by the exciting new developments and technologies that emerge from the fields of artificial intelligence and new capabilities of processing hardware alike. Those developments, in conjunction with the open science movement, have given rise to exciting new open source projects that start to reshape the way we conduct science and research in all kinds of fields of natural science. One such example is the OSS library DeepLabCut. Standing on the shoulders of giants, just as Newton said, it is written in Python and uses deep learning architectures provided by TensorFlow to track animal movement in video recordings in the 2D as well as in the 3D space. And although this library is targeted at animal pose estimation use cases of researchers, it is so generic in nature that it can be used in very different use cases, such as eye-tracking. In this talk, I'd like to give you a demonstration of the capabilities of the DeepLabCut in my pigeon experiments.
@@ -87,11 +106,11 @@ Some of these examples were obtained from Evolution's Rainbow: A Queer Species D
 Álvarez, B., Koene, J.M., Hollis, K.L. et al. Learning to anticipate mate presence shapes individual sex roles in the hermaphroditic pond snail, Lymnaea stagnalis. Anim Cogn (2022). https://doi.org/10.1007/s10071-022-01623-7
 </p>
 
-da Silva Jack and Drysdale Victoria L. 2018Isogamy in large and complex volvocine algae is consistent with the gamete competition theory of the evolution of anisogamyProc. R. Soc. B.2852018195420181954
+da Silva Jack and Drysdale Victoria L. 2018Isogamy in large and complex volvocine algae is consistent with the gamete competition theory of the evolution of anisogamy. Proc. R. Soc. B.2852018195420181954
 http://doi.org/10.1098/rspb.2018.1954
 </p>
 
-Diamant Eleanor S., Falk Jay J. and Rubenstein Dustin R. 2021Male-like female morphs in hummingbirds: the evolution of a widespread sex-limited plumage polymorphismProc. R. Soc. B.2882020300420203004
+Diamant Eleanor S., Falk Jay J. and Rubenstein Dustin R. 2021Male-like female morphs in hummingbirds: the evolution of a widespread sex-limited plumage polymorphism. Proc. R. Soc. B.2882020300420203004
 http://doi.org/10.1098/rspb.2020.3004
 </p>
 
@@ -116,6 +135,15 @@ Arnoldussen M, van der Miesen AIR, Elzinga WS, Alberse AE, Popma A, Steensma TD,
 Fry KM, Grzanka PR, Miles JR, DeVore EN. Is Essentialism Essential? Reducing Homonegative Prejudice by Targeting Diverse Sexual Orientation Beliefs. Arch Sex Behav. 2020 Jul;49(5):1725-1739. https://doi.org/10.1007/s10508-020-01706-x
 </p>
 
+Delclos PJ, Forero SA, Rosenthal GG. Divergent neurogenomic responses shape social learning of both personality and mate preference. J Exp Biol. 2020 Mar 16;223(Pt 6):jeb220707. doi: 10.1242/jeb.220707. PMID: 32054683. https://doi.org/10.1242/jeb.220707
+</p>
+
+Ambler, J. K., Lee, E. M., Klement, K. R., Loewald, T., Comber, E. M., Hanson, S. A., Cutler, B., Cutler, N., & Sagarin, B. J. (2017). Consensual BDSM facilitates role-specific altered states of consciousness: A preliminary study. Psychology of Consciousness: Theory, Research, and Practice, 4(1), 75–91. https://doi.org/10.1037/cns0000097
+</p>
+
+Gil-Llario, M.D., Fernández-García, O., Huedo-Medina, T.B. et al. Analysis of the Differential Efficacy of the Reduced Version Over the Extended Version of an Affective-Sexual Education Program for Adults with Intellectual Disabilities. Arch Sex Behav (2022). https://doi.org/10.1007/s10508-022-02407-3
+</p>
+
 ## Group debating using primary research articles to support arguments (25% of final grade)
 <img src="https://images.currentaffairs.org/2021/10/debate-1024x646.jpg" width="50%"> 
 Image source: https://www.currentaffairs.org/2021/10/why-we-should-teach-kids-to-debate
@@ -126,7 +154,7 @@ Image source: https://www.currentaffairs.org/2021/10/why-we-should-teach-kids-to
 | Immortality is a good thing.   |  32%  |  68%  |  25%  | 75%   |
 | Falling in love with AI is considered love. |  40%  |  60%  | 36%   |  64%  |
 | The failures in life are worth thanking. | 73%   |  27%  |  68%  |  32%  |
-| We should drink a potion that eradicates sadness. |    |    |    |    |
+| We should drink a potion that eradicates sadness. | 33%  | 67% | 45%   |  55%  |
 | Calling mum a superwoman is a praise. |    |    |    |    |
 | Repeatedly being in a bad romantic relationship is our fault. |    |    |    |    |
 
