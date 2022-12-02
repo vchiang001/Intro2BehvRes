@@ -74,9 +74,8 @@ Students with Erinda (Diego Ruiz Tellode Meneses, Teddy Adams, Aidan McGinnis, S
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Annastasia%20Martineau.jpg" width="20%">
 Annastasia Martineau, M.Ed., is a third-year Ed.S. student at the University of Massachusetts, Boston. Her field interests include early education, LGBTQ+ students, early literacy, and behavioral health. She is currently working as a Boston Public Schools School Psychology Intern, and is placed at the Roosevelt K-8 and Chittick Elementary School. As a National Association of School Psychologists Graduate Student Leader, she facilitates presentations to high school and undergrad students in order to introduce them to school psychology as a career.
 
-### Gray Troyer (November 10th)  
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Gray%20%26%20Annastasia.JPG" width="50%"> 
-Students with Gray & Annastasia (Diego Ruiz Tellode Meneses, Kianna Savage, Jeffrey Tremblay, Ridhikasri Kanniappan, Cely Garcia)
+Students with Annastasia (Diego Ruiz Tellode Meneses, Kianna Savage, Jeffrey Tremblay, Ridhikasri Kanniappan, Cely Garcia)
 
 ### Sakeena Mihar (November 15th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Sakeena_Mihar.jpg" width="30%"> 
@@ -98,7 +97,8 @@ Students with Nesli
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Han_Spinner.jpg" width="15%"> 
 I am Han Spinner, my pronouns are they/them, and I am a PhD candidate at Harvard in the lab of Debora Marks. I went to UC Berkeley (yay state schools!) and studied Genetics and Plant Biology with a minor in Food Systems. After undergrad, I worked at a CRISPR protein engineering startup called Scribe Therapeutics. In graduate school, my research focuses on machine learning and protein design. My guest lecture will describe some of the fundamental data analysis tools people use when doing research. I am very open to questions about anything and am looking forward to the conversation with your class.
 https://github.com/hanspinner and Twitter (@H__Spinner).
-
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Han.JPG" width="50%"> 
+Students with Han  (Alejandro GomezCatano, Diego Ruiz Tellode Meneses, Vitoria Gomesde Mattos Sousa, Kianna Savage, Hawraa Lami, Aidan McGinnis, Sarah Chery, Jeffrey Tremblay)
 
 ## Sexual diversity examples to contextualise the concepts learnt
 
@@ -160,8 +160,8 @@ Image source: https://www.currentaffairs.org/2021/10/why-we-should-teach-kids-to
 | Falling in love with AI is considered love. |  40%  |  60%  | 36%   |  64%  |
 | The failures in life are worth thanking. | 73%   |  27%  |  68%  |  32%  |
 | We should drink a potion that eradicates sadness. | 33%  | 67% | 45%   |  55%  |
-| Calling mum a superwoman is a praise. |    |    |    |    |
-| Repeatedly being in a bad romantic relationship is our fault. |    |    |    |    |
+| Calling mum a superwoman is a praise. | 85%   | 14%   | 25%   | 75%   |
+| Repeatedly being in a bad romantic relationship is our fault. | 64%   |  36%   |  71%  |  29%  |
 
 
 ## Group Projects using DeepLabCut on wildlife animals (25% of final grade)
