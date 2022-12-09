@@ -84,13 +84,13 @@ Sakeena Mihar is the CEO and co-founder of Savyn, an award-winning social impact
 ### Aleen Shakeel (November 15th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Aleen_Shakeel.png" width="15%"> 
 Aleen is a graduate from the Biomedical Sciences program at Toronto Metropolitan University. Throughout her early career, she has explored different pathways in science, such as using computational biology to visualize mutant proteins, science outreach techniques to engage youth with climate change, and mental health innovation to improve the lives of marginalized trauma victims. Particularly passionate about her role as a lead scientist for Savyn Tech, a mental health start-up in Toronto, Aleen will discuss how topics such as repeated measures designs, practice effects and counterbalancing are important considerations for Savyn’s ongoing clinical studies to validate a novel digital therapy platform.
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Aleen.jpg" width="50%"> 
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Aleen.jpg" width="80%"> 
 Students with Aleen
 
 ### Neslihan Wittek (November 17th) 
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Neslihan_Wittek.jpg" width="30%"> 
 Postdoctoral researcher at the biopsychology department of the Ruhr University Bochum. She focuses on pigeons' decision-making and self-recognition. While doing behavioral experiments, she also explores challenging analyzing methods and the field of data science. That is also one of the reasons why she is interested in open-source technology ( which helps her not get lost in the thorny paths and thick forests of scientific computing :)) The field of behavioral sciences is currently taken by storm by the exciting new developments and technologies that emerge from the fields of artificial intelligence and new capabilities of processing hardware alike. Those developments, in conjunction with the open science movement, have given rise to exciting new open source projects that start to reshape the way we conduct science and research in all kinds of fields of natural science. One such example is the OSS library DeepLabCut. Standing on the shoulders of giants, just as Newton said, it is written in Python and uses deep learning architectures provided by TensorFlow to track animal movement in video recordings in the 2D as well as in the 3D space. And although this library is targeted at animal pose estimation use cases of researchers, it is so generic in nature that it can be used in very different use cases, such as eye-tracking. In this talk, I'd like to give you a demonstration of the capabilities of the DeepLabCut in my pigeon experiments.
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Nesli.png" width="50%"> 
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Nesli.png" width="80%"> 
 Students with Nesli
 
 ### Han Spinner (December 1st)
