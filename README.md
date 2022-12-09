@@ -201,3 +201,41 @@ Image source: https://doi.org/10.1016/j.neuron.2022.06.018
 
 Project submissions using [Github](http://github.com) and [Jupyter Notebook](https://jupyter.org/) 
 </p>
+
+### Eastern gray squirrel (Sciurus carolinensis) 
+<p float="left">
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Squirrel1.jpg" width="30%">
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Squirrel2.jpg" width="35%">
+  <img src= "https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Squirrel_short.gif" width="15%">
+</p>
+
+### Rock pigeon (Columba livia)
+<p float="left">
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Pigeon1.jpg" width="30%">
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Pigeon2.jpg" width="30%">
+  <img src= "https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Pigeon_short.gif" width="15%">
+</p>
+
+### Great Black-backed Gulls (Larus marinus)
+<p float="left">
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Seagull1.jpg" width="30%">
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Seagull2.jpg" width="30%">
+  <img src= "https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Seagull_short.gif" width="15%">
+</p>
+
+### New England cottontail (Sylvilagus transitionalis)
+<p float="left">
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Cottontail1.jpg" width="30%">
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Cottontail2.jpg" width="30%">
+  <img src= "https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Cottontail_short.gif" width="15%">
+</p>
+
+### Canada Geese (Branta canadensis)
+<p float="left">
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/CanadaGoose.jpg" width="30%">
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/CanadaGoose2.jpg" width="30%">
+  <img src= "https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/CanadaGoose_short.gif" width="15%">
+</p>
+
+### Recruitment for DeepLabCut Tutors for next semester 
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/DLCTutor%20Ad.jpg" width="80%">
