@@ -2,7 +2,8 @@
 
 
 # 2022 SEP to DEC: Introduction to Behavioural Research
-Instructor: Vic Shao-Chih Chiang 蔣紹志 (he/him/his) - identifies as a gay cisgender male
+## Instructor 
+Vic Shao-Chih Chiang 蔣紹志 (he/him/his) is a Taiwan-born New Zealander who aims to cultivate epistemological diversity, especially through the lens of marginalized communities. With this goal in mind and his mental health struggles, he is the co-founder of the award-winning, Toronto-based social impact venture, Savyn Tech. By the same token and because of his LGBTQ2S+ identity, his research focuses on the neuroscience of sexual diversity. He brings with him a plethora of research experiences from across the globe such as at Harvard Medical School, University College London, Tsinghua University (Beijing) etc, whilst recognising injustices exacerbated by elite institutions. On top of that, he was a DeepLabCut AI Resident in Geneva, using pose estimation to increase the accessibility of machine learning to marginalised communities. In Hong Kong, he volunteered for Health in Action, whose mission is to increase healthcare equity in marginalised communities. 
 
 ## Course Content
 <img src="https://media.newyorker.com/photos/61169a9284b38b85152f2136/master/w_2240,c_limit/210823_r38857.jpg" width="50%"> 
@@ -33,12 +34,12 @@ Image source: https://doi.org/10.1093/biosci/biac013
 </p>
 In this class, I hope to present the class with relatable role models from diverse backgrounds, especially those representing a diversity of marginalized identities. I want the class to see them as full people with humanizing information, including their research and their contributions to their field. For this effort, some resources I consulted include:
 
-+ [500 Queer Scientists](www.500queerscientists.com) 
++ [500 Queer Scientists](https://www.500queerscientists.com) 
 + [DiversifyPlantSci](https://docs.google.com/spreadsheets/d/1ygduel8h-BSq1irE-guLD-CbFrSHdykHHXFGt5PiW9Y/edit#gid=1813523959) 
 + [100 inspiring Hispanic/Latinx scientists in America](https://crosstalk.cell.com/blog/100-inspiring-hispanic-latinx-scientists-in-america) 
 + [Diversify ecologists and evolutionary biologists](https://diversifyeeb.com/) 
-+ [Scientist Spotlights](www.scientistspotlights.org) 
-+ [Skype a Scientist](www.skypeascientist.com) 
++ [Scientist Spotlights](https://www.scientistspotlights.org) 
++ [Skype a Scientist](https://www.skypeascientist.com) 
 + [Black in the Ivory](https://blackintheivory.net/)
 + [American Society for Cell Biology (ASCB) Women in Cell Biology and Minority Affairs Committee](www.ascb.org/career-development/speaker-referral-lists/) 
 + [Black Neuroscience PI](https://docs.google.com/spreadsheets/d/1Fbrot1qV0bqYREFYNepQiV8toT1GDDw9y7Nak_PyaZ4/edit#gid=0) 
