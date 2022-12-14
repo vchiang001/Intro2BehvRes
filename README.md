@@ -182,13 +182,13 @@ Image source: http://www.mackenziemathislab.org/deeplabcut
 [Labelling using DeepLabCut GUI](https://deeplabcut.medium.com/the-new-deeplabcut-gui-is-released-ready-to-jump-in-eeff3776b102)
 </p>
 
-[DeepLabCut neural network training and analysis on Google Colaboratory (with Google's GPUs!)](https://colab.research.google.com/github/DeepLabCut/DeepLabCut/blob/master/examples/COLAB/COLAB_YOURDATA_TrainNetwork_VideoAnalysis.ipynb)
+[DeepLabCut neural network training and analysis on Google Colab](https://colab.research.google.com/github/DeepLabCut/DeepLabCut/blob/master/examples/COLAB/COLAB_YOURDATA_TrainNetwork_VideoAnalysis.ipynb)
 </p>
 
 [Outputs for your DeepLabCut data e.g. bodypart trajectories](https://deeplabcut.github.io/DeepLabCut/docs/standardDeepLabCut_UserGuide.html#k-plot-trajectories)
 </p>
 
-[DeepLabCut training & analysis using Neuroscience Cloud Analysis As a Service (NeuroCAAS)](http://neurocaas.org/analysis/3)
+[DeepLabCut neural network training & analysis using Neuroscience Cloud Analysis As a Service (NeuroCAAS)](http://neurocaas.org/analysis/3)
 </p>
 
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/NeuroCAAS.jpg" width="30%"> 
