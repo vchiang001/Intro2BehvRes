@@ -179,10 +179,10 @@ Image source: http://www.mackenziemathislab.org/deeplabcut
 [Installation: how to install DeepLabCut](https://deeplabcut.github.io/DeepLabCut/docs/installation.html)
 </p>
 
-[Labelling using DeepLabCut GUI](https://deeplabcut.github.io/DeepLabCut/docs/installation.html)
+[Labelling using DeepLabCut GUI](https://deeplabcut.medium.com/the-new-deeplabcut-gui-is-released-ready-to-jump-in-eeff3776b102)
 </p>
 
-[DeepLabCut training and analysis on Google Colaboratory (with Google's GPUs!)](https://colab.research.google.com/github/DeepLabCut/DeepLabCut/blob/master/examples/COLAB/COLAB_YOURDATA_TrainNetwork_VideoAnalysis.ipynb)
+[DeepLabCut neural network training and analysis on Google Colaboratory (with Google's GPUs!)](https://colab.research.google.com/github/DeepLabCut/DeepLabCut/blob/master/examples/COLAB/COLAB_YOURDATA_TrainNetwork_VideoAnalysis.ipynb)
 </p>
 
 [Outputs for your DeepLabCut data e.g. bodypart trajectories](https://deeplabcut.github.io/DeepLabCut/docs/standardDeepLabCut_UserGuide.html#k-plot-trajectories)
