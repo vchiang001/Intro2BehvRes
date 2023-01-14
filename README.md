@@ -1,9 +1,9 @@
 
 
 
-# 2022 SEP to DEC: Introduction to Behavioural Research
+# 2023 JAN to JUN: Introduction to Behavioural Research
 ## Instructor 
-Vic Shao-Chih Chiang 蔣紹志 is a Taiwan-born New Zealander. He founded the Open Mind Discussion Forum to debate diverse controversial issues from opposing views. This enabled him to experience countless “Socratic maieutikè”, which fostered deeper cultural awareness within him. Stemming from this enlightenment, he aims to cultivate epistemological diversity, especially through the lens of marginalized communities. With this goal in mind and his mental health struggles, he is the co-founder of the award-winning, Toronto-based social impact venture, Savyn Tech. By the same token and because of his LGBTQ2S+ identity, his research focuses on the neuroscience of sexual diversity. He brings with him a plethora of research experiences from across the globe such as at Harvard Medical School, University College London, Tsinghua University (Beijing) etc, whilst recognising injustices exacerbated by elite institutions. On top of that, he was a DeepLabCut AI Resident in Geneva, using behaviomics to increase the accessibility of machine learning to marginalised communities. In Hong Kong, he volunteered for Health in Action, whose mission is to increase healthcare equity in marginalised communities. Mirroring the objectives of the Open Mind Discussion Forum, he co-started a video channel, “Thoughts Relativism”, to challenge our assumptions, impugn the status quo, and embrace plurality.
+Vic Shao-Chih Chiang 蔣紹志 (he/him/his)
 
 ## Course Content
 <img src="https://media.newyorker.com/photos/61169a9284b38b85152f2136/master/w_2240,c_limit/210823_r38857.jpg" width="50%"> 
@@ -51,55 +51,10 @@ In this class, I hope to present the class with relatable role models from diver
 + [Databases of Databases of Diverse Speakers in STEM](https://docs.google.com/document/u/1/d/e/2PACX-1vSlvHTZtOc6wG5C9xEc-bAIYofpeDHVjrrVc7Q_5IQdmXcLeaYd27nhoJD9jub_q-qAILxHknMGbggb/pub) 
 
 
-### Kimberly Lucas (September 29th)
-<img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-Headshot-1-scaled-600x800-c-default.jpg" width="15%"> 
-Kim is an academic-practitioner who is committed to community-driven civic research, innovation in city-university collaborations, and leveraging our collective expertise for the social good. Kim previously served as Interim Executive Director at Metrolab Network and Director of Civic Research for the City of Boston. Kim’s research focuses on early childhood policy and the child care market, and their practical experience includes over a decade of innovation in community-engaged research.
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/IMG_2899.JPG" width="50%"> 
-Students with Professor Lucas (Diego Ruiz Tellode Meneses, Ridhikasri Kanniappan, Vitoria Gomesde Mattos Sousa) 
+### Rahul Jayaraman (April 25th)
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Rahul%20Jayaraman.JPG" width="15%"> 
+Rahul Jayaraman (he/him) is a PhD candidate in Physics at the Massachusetts Institute of Technology (MIT). He works with the Transiting Exoplanet Survey Satellite (TESS) group, with a specific focus on transient astrophysical phenomena and stellar astrophysics (i.e., pulsations and magnetic fields). As part of the "Data Analysis" class, he hopes to have you work with real TESS data in order to characterize the variability present in astrophysical sources and draw meaningful conclusions from this analysis. Outside of research, he likes to climb rocks (indoors), listen to the Weeknd, and read in-depth magazine profiles.
 
-### *The speaker chose not to share public info (October 13th)
-
-### Amrutha Killada (October 20th)
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Amrutha%20Killada.png" width="30%">
-Amrutha Killada has experience in building and managing digital products. She has enjoyed working in various industries throughout her career in Pharmaceuticals, Healthcare, and Management Consulting and also worked as an Entrepreneur in Residence at Babson College. She has pursued a Master of Science in Engineering and Management (IDM) at the Massachusetts Institute of Technology(MIT), studied Product Design Engineering Management and Human-centered Design Process, and worked as a Research Assistant at MIT's Education lab. Previously Amrutha completed MBA in Global business management and bachelor's in Electronics Engineering.
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Amrutha.JPG" width="50%"> 
-Students with Amrutha (Diego Ruiz Tellode Meneses, Ridhikasri Kanniappan, Teddy Adams, Aidan McGinnis, Lenira Teixeira, Arianna Curry)
-
-### Erinda Morina (October 27th) 
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/ErindaMorina.jpg" width="20%">
-Erinda Morina is a fifth year PhD candidate in the Developmental and Brain Science Program at the University of Massachusetts Boston. She holds a BS in Psychology from University of Massachusetts Boston, and a second BS in Public Health from University of Medicine, Tirana, Albania. Erinda’s research interest focuses on how cognitive and neural mechanism shape our perception of the world, specifically the perception of social and emotional information. In addition, she is also interested in the developmental trajectory of such cognitive and neural mechanisms.
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Erinda.JPG" width="50%"> 
-Students with Erinda (Diego Ruiz Tellode Meneses, Teddy Adams, Aidan McGinnis, Sumaya Abdullahi, Kianna Savage)
-
-### Annastasia Martineau (November 10th)  
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Annastasia%20Martineau.jpg" width="20%">
-Annastasia Martineau, M.Ed., is a third-year Ed.S. student at the University of Massachusetts, Boston. Her field interests include early education, LGBTQ+ students, early literacy, and behavioral health. She is currently working as a Boston Public Schools School Psychology Intern, and is placed at the Roosevelt K-8 and Chittick Elementary School. As a National Association of School Psychologists Graduate Student Leader, she facilitates presentations to high school and undergrad students in order to introduce them to school psychology as a career.
-
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Gray%20%26%20Annastasia.JPG" width="50%"> 
-Students with Annastasia (Diego Ruiz Tellode Meneses, Kianna Savage, Jeffrey Tremblay, Ridhikasri Kanniappan, Cely Garcia)
-
-### Sakeena Mihar (November 15th)
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Sakeena_Mihar.jpg" width="30%"> 
-Sakeena Mihar is the CEO and co-founder of Savyn, an award-winning social impact venture for inclusive digital mental health care providing virtual PTSD therapies in multiple languages based in Toronto, Ontario. Savyn removes barriers to accessing mental health support to heal trauma for vulnerable groups like refugees, immigrants, veterans and other trauma survivors. Savyn has won the Desjardin Cooperathon - Social Impact award, PennyAppeal Social Accelerator fund and is currently being incubated at Biomedical Zone, a partnership with St Michael’s hospital, and Social Ventures Zone at Toronto Metropolitan University (TMU). Sakeena also wears other hijabs in addition to being a founder. Sakeena is an equity, inclusion and social justice consultant and trainer. She runs workshops on Islamophobia, bystander intervention, equity and inclusion issues for several organizations, startups and political parties. She is also a speaker on gendered Islamophobia and spoken at the White Privilege conference in Toronto and at other events. She co-founded the first Muslim Faculty and Staff community network at TMU, advocating for systemic changes and implementing policy changes.
-
-### Aleen Shakeel (November 15th)
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Aleen_Shakeel.png" width="15%"> 
-Aleen is a graduate from the Biomedical Sciences program at Toronto Metropolitan University. Throughout her early career, she has explored different pathways in science, such as using computational biology to visualize mutant proteins, science outreach techniques to engage youth with climate change, and mental health innovation to improve the lives of marginalized trauma victims. Particularly passionate about her role as a lead scientist for Savyn Tech, a mental health start-up in Toronto, Aleen will discuss how topics such as repeated measures designs, practice effects and counterbalancing are important considerations for Savyn’s ongoing clinical studies to validate a novel digital therapy platform.
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Aleen.jpg" width="80%"> 
-Students with Aleen
-
-### Neslihan Wittek (November 17th) 
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Neslihan_Wittek.jpg" width="30%"> 
-Postdoctoral researcher at the biopsychology department of the Ruhr University Bochum. She focuses on pigeons' decision-making and self-recognition. While doing behavioral experiments, she also explores challenging analyzing methods and the field of data science. That is also one of the reasons why she is interested in open-source technology ( which helps her not get lost in the thorny paths and thick forests of scientific computing :)) The field of behavioral sciences is currently taken by storm by the exciting new developments and technologies that emerge from the fields of artificial intelligence and new capabilities of processing hardware alike. Those developments, in conjunction with the open science movement, have given rise to exciting new open source projects that start to reshape the way we conduct science and research in all kinds of fields of natural science. One such example is the OSS library DeepLabCut. Standing on the shoulders of giants, just as Newton said, it is written in Python and uses deep learning architectures provided by TensorFlow to track animal movement in video recordings in the 2D as well as in the 3D space. And although this library is targeted at animal pose estimation use cases of researchers, it is so generic in nature that it can be used in very different use cases, such as eye-tracking. In this talk, I'd like to give you a demonstration of the capabilities of the DeepLabCut in my pigeon experiments.
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Nesli.png" width="80%"> 
-Students with Nesli
-
-### Han Spinner (December 1st)
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Han_Spinner.jpg" width="15%"> 
-I am Han Spinner, my pronouns are they/them, and I am a PhD candidate at Harvard in the lab of Debora Marks. I went to UC Berkeley (yay state schools!) and studied Genetics and Plant Biology with a minor in Food Systems. After undergrad, I worked at a CRISPR protein engineering startup called Scribe Therapeutics. In graduate school, my research focuses on machine learning and protein design. My guest lecture will describe some of the fundamental data analysis tools people use when doing research. I am very open to questions about anything and am looking forward to the conversation with your class.
-https://github.com/hanspinner and Twitter (@H__Spinner).
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Han.JPG" width="50%"> 
-Students with Han  (Alejandro GomezCatano, Diego Ruiz Tellode Meneses, Vitoria Gomesde Mattos Sousa, Kianna Savage, Hawraa Lami, Aidan McGinnis, Sarah Chery, Jeffrey Tremblay)
 
 ## Sexual diversity examples to contextualise the concepts learnt
 
@@ -150,22 +105,22 @@ Ambler, J. K., Lee, E. M., Klement, K. R., Loewald, T., Comber, E. M., Hanson, S
 Gil-Llario, M.D., Fernández-García, O., Huedo-Medina, T.B. et al. Analysis of the Differential Efficacy of the Reduced Version Over the Extended Version of an Affective-Sexual Education Program for Adults with Intellectual Disabilities. Arch Sex Behav (2022). https://doi.org/10.1007/s10508-022-02407-3
 </p>
 
-## Group debating using primary research articles to support arguments (25% of final grade)
+## Group debating using primary research articles to support arguments (15% of final grade)
 <img src="https://images.currentaffairs.org/2021/10/debate-1024x646.jpg" width="50%"> 
 Image source: https://www.currentaffairs.org/2021/10/why-we-should-teach-kids-to-debate
 
 | Debate Motion  | Starting Vote: PRO | Starting Vote: OPP | Closing Vote: PRO | Closing Vote: OPP
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | This society prioritises facial appearance.  | Practice Only   |  Practice Only  |  Practice Only  |  Practice Only  |
-| Immortality is a good thing.   |  32%  |  68%  |  25%  | 75%   |
-| Falling in love with AI is considered love. |  40%  |  60%  | 36%   |  64%  |
-| The failures in life are worth thanking. | 73%   |  27%  |  68%  |  32%  |
-| We should drink a potion that eradicates sadness. | 33%  | 67% | 45%   |  55%  |
-| Calling mum a superwoman is a praise. | 85%   | 14%   | 25%   | 75%   |
-| Repeatedly being in a bad romantic relationship is our fault. | 64%   |  36%   |  71%  |  29%  |
+| Immortality is a good thing.   |   |    |   |   |
+| Falling in love with AI is considered love. |  |    |    |    |
+| The failures in life are worth thanking. |   |   |   |  |
+| We should drink a potion that eradicates sadness. |   | |   |   |
+| Calling mum a superwoman is a praise. |  |    |  |  |
+| Repeatedly being in a bad romantic relationship is our fault. |    |  |   |    |
 
 
-## Group Projects using DeepLabCut on wildlife animals (25% of final grade)
+## Group Projects using DeepLabCut on wildlife animals (20% of final grade)
 <img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1628250004229-KVYD7JJVHYEFDJ32L9VJ/DLClogo2021.jpg?format=1000w" width="50%"> 
 Image source: http://www.mackenziemathislab.org/deeplabcut 
 </p>
@@ -188,12 +143,6 @@ Image source: http://www.mackenziemathislab.org/deeplabcut
 [Outputs for your DeepLabCut data e.g. bodypart trajectories](https://deeplabcut.github.io/DeepLabCut/docs/standardDeepLabCut_UserGuide.html#k-plot-trajectories)
 </p>
 
-[DeepLabCut neural network training & analysis using Neuroscience Cloud Analysis As a Service (NeuroCAAS)](http://neurocaas.org/analysis/3)
-</p>
-
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/NeuroCAAS.jpg" width="30%"> 
-Image source: https://doi.org/10.1016/j.neuron.2022.06.018
-</p>
 
 <p float="left">
   <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" width="15%"> 
@@ -203,40 +152,35 @@ Image source: https://doi.org/10.1016/j.neuron.2022.06.018
 Project submissions using [Github](http://github.com) and [Jupyter Notebook](https://jupyter.org/) 
 </p>
 
-### Eastern gray squirrel (Sciurus carolinensis) 
-<p float="left">
-  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Squirrel1.jpg" width="30%">
-  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Squirrel2.jpg" width="35%">
-  <img src= "https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Squirrel_short.gif" width="15%">
-</p>
 
-### Rock pigeon (Columba livia)
-<p float="left">
-  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Pigeon1.jpg" width="30%">
-  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Pigeon2.jpg" width="30%">
-  <img src= "https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Pigeon_short.gif" width="15%">
-</p>
 
-### Great Black-backed Gulls (Larus marinus)
-<p float="left">
-  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Seagull1.jpg" width="30%">
-  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Seagull2.jpg" width="30%">
-  <img src= "https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Seagull_short.gif" width="15%">
-</p>
+## DeepLabCut Tutors & Mentors 
 
-### New England cottontail (Sylvilagus transitionalis)
-<p float="left">
-  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Cottontail1.jpg" width="30%">
-  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Cottontail2.jpg" width="30%">
-  <img src= "https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Cottontail_short.gif" width="15%">
-</p>
+### Shruti Varade
+<img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-Headshot-1-scaled-600x800-c-default.jpg" width="15%"> 
+Rahul Jayaraman (he/him) is a PhD candidate in Physics at the Massachusetts Institute of Technology (MIT). He works with the Transiting Exoplanet Survey Satellite (TESS) group, with a specific focus on transient astrophysical phenomena and stellar astrophysics (i.e., pulsations and magnetic fields). As part of the "Data Analysis" class, he hopes to have you work with real TESS data in order to characterize the variability present in astrophysical sources and draw meaningful conclusions from this analysis. Outside of research, he likes to climb rocks (indoors), listen to the Weeknd, and read in-depth magazine profiles.
 
-### Canada Geese (Branta canadensis)
-<p float="left">
-  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/CanadaGoose.jpg" width="30%">
-  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/CanadaGoose2.jpg" width="30%">
-  <img src= "https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/CanadaGoose_short.gif" width="15%">
-</p>
+### Vitoria Gomes de Mattos Sousa
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Vitoria%20Gomes%20de%20Mattos%20Sousa.jpeg" width="15%"> 
+Vitoria Gomes de Mattos Sousa is currently a fourth-year student at the University of Massachusetts - Boston. She is originally from Brazil, and has been living in Massachusetts for the past 6 years. Some of her field interests include Early Childhood Education and Care in Inclusive Settings, Trauma Informed Practices, and School, Child and Family Psychology. She is currently finishing her Practicum requirements in the MA Public School System and working as a Behavioral Therapist helping children build social-emotional, self-help, play and general life skills.
 
-### Recruitment for DeepLabCut Tutors for next semester 
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/DLCTutor%20Ad.jpg" width="80%">
+### Hiral Lunkad
+<img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-Headshot-1-scaled-600x800-c-default.jpg" width="15%"> 
+
+### Ridhikasri Kanniappan
+<img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-Headshot-1-scaled-600x800-c-default.jpg" width="15%"> 
+
+### Daniela Hernandez
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Daniela%20Hernandez.jfif" width="15%"> 
+Hi my name is Daniela Hernandez and I am from Honduras. I studied EE/Physics in undergrad and Im currently pursuing a MEng in Surgery and Intervention at Vanderbilt. I love learning about AI and using DeepLabCut on a daily basis. Feel free to ask me anything and look forward to getting to know you!
+
+### Madelyn Smythe
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Madelyn%20Smythe.jpg" width="15%"> 
+I was born with the “horse bug” and after spending 12 years training and competing young horses I knew I wanted to pursue a career in the equine industry. I went on to finish my B.S. at the University of Minnesota, then I completed a yearlong internship with Kentucky Equine Research which propelled me into my M.S. degree in an equine lab at the University of Florida. There I developed skills in Markerless pose estimation to track locomotor phenotypes in the elite sport horse. My love of horses and my growing passion for teaching led me to my position as a professor at the College of Central Florida. I hope to continue teaching equine science by showing how AI technology, genetics, and physiology can greatly improve the modern-day horse.
+
+### Hongbin (Ben) Lin
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Hongbin%20(Ben)%20Lin.jfif" width="15%"> 
+I'm a 3rd year Ph.D. Student in CUHK majoring in mechanical and automation engineering. I am interested in designing “smart” robot system that allows robots to adapt environment like human. The focus of my current research is A.I. for surgical autonomy. 
+
+
+
