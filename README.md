@@ -50,10 +50,26 @@ In this class, I hope to present the class with relatable role models from diver
 + [Black Women in Biology, Ecology, Evolution, and Marine Science](https://docs.google.com/spreadsheets/d/1chSLhqclJbOEHrkk-0gEp_73bR54BepM133LJW2p54o/edit#gid=0) 
 + [Databases of Databases of Diverse Speakers in STEM](https://docs.google.com/document/u/1/d/e/2PACX-1vSlvHTZtOc6wG5C9xEc-bAIYofpeDHVjrrVc7Q_5IQdmXcLeaYd27nhoJD9jub_q-qAILxHknMGbggb/pub) 
 
+### Evan O'Loughlin
+<img src="https://500queerscientists.com/wp-content/uploads/2020/09/IMG_0982-copy.jpg" width="15%"> 
+
+### David Alagpulinsa
+<img src="https://researchers.mgh.harvard.edu/image/30314645/thumbnail/private/16881824" width="15%"> 
+
+### Michelle Kunimoto
+<img src="https://space.mit.edu/wp-content/uploads/2020/09/michelle_kunimoto-1100x1100.jpg" width="15%"> 
+
+### Mark Charbonneau
+<img src="https://media.licdn.com/dms/image/C4E03AQGBOS11LGzGpA/profile-displayphoto-shrink_800_800/0/1605096583997?e=2147483647&v=beta&t=oGtLWXWfON4HcyOvAfuV9T6WBx575eeHIV43Sqy_RGc" width="15%"> 
 
 ### Rahul Jayaraman (April 25th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Rahul%20Jayaraman.JPG" width="15%"> 
 Rahul Jayaraman (he/him) is a PhD candidate in Physics at the Massachusetts Institute of Technology (MIT). He works with the Transiting Exoplanet Survey Satellite (TESS) group, with a specific focus on transient astrophysical phenomena and stellar astrophysics (i.e., pulsations and magnetic fields). As part of the "Data Analysis" class, he hopes to have you work with real TESS data in order to characterize the variability present in astrophysical sources and draw meaningful conclusions from this analysis. Outside of research, he likes to climb rocks (indoors), listen to the Weeknd, and read in-depth magazine profiles.
+
+### Sakeena Mihar
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Sakeena_Mihar.jpg" width="30%"> 
+Sakeena Mihar is the CEO and co-founder of Savyn, an award-winning social impact venture for inclusive digital mental health care providing virtual PTSD therapies in multiple languages based in Toronto, Ontario. Savyn removes barriers to accessing mental health support to heal trauma for vulnerable groups like refugees, immigrants, veterans and other trauma survivors. Savyn has won the Desjardin Cooperathon - Social Impact award, PennyAppeal Social Accelerator fund and is currently being incubated at Biomedical Zone, a partnership with St Michael’s hospital, and Social Ventures Zone at Toronto Metropolitan University (TMU). Sakeena also wears other hijabs in addition to being a founder. Sakeena is an equity, inclusion and social justice consultant and trainer. She runs workshops on Islamophobia, bystander intervention, equity and inclusion issues for several organizations, startups and political parties. She is also a speaker on gendered Islamophobia and spoken at the White Privilege conference in Toronto and at other events. She co-founded the first Muslim Faculty and Staff community network at TMU, advocating for systemic changes and implementing policy changes.
+
 
 
 ## Sexual diversity examples to contextualise the concepts learnt
@@ -167,7 +183,6 @@ Vitoria Gomes de Mattos Sousa is currently a fourth-year student at the Universi
 ### Ridhikasri Kanniappan
 
 ### Tedd Adams
-<img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-Headshot-1-scaled-600x800-c-default.jpg" width="15%">
 Hello! My name is Tedd Adams, I am an Asian American in my third year of working toward completing my BS in Psychology and minor in Biology. I am studying to go to veterinary school after graduating and love most things plant or animal related. I’m currently working on constructing self sustaining ecosystems within portable enclosures in my free time, you can typically find me at the gym or the 3D Lab on campus, and I am always on the lookout for new intricate hobbies
 
 ### Daniela Hernandez
@@ -196,3 +211,11 @@ Being born in Lithuania and moving to Chicago, Dr. Ausra settled down in the Sun
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Michelle%20Verhoeven.jpeg" width="15%"> 
 My name is Michelle Verhoeven, I am Dutch and decided to join the academic world by exchanging my small hometown for the big capital Amsterdam to start studying. There, I graduated from the Research Master in Human Movement Sciences at the Vrije Universiteit Amsterdam. For my master thesis, I conducted a validation study on using DeepLabCut for gait analysis in adults and newly walking toddlers. I recently moved to Belgium to start a PhD at Ghent University. My current research aims to investigate Selective Motor Control during gait (SMCg) in children with Developmental Coordination Disorder (DCD) and cerebral palsy (CP).
 
+### Zanna Vanterpool
+<img src="https://media.licdn.com/dms/image/C5603AQHS4ZXfShga7Q/profile-displayphoto-shrink_400_400/0/1540828271390?e=1679529600&v=beta&t=oEKpa3iA--5kevCRVfY87XJIleAGuRNsfcva733VIuk" width="15%"> 
+
+### Nathan Kirkpatrick
+<img src="https://media.licdn.com/dms/image/C5603AQGnR1tuWS9buQ/profile-displayphoto-shrink_400_400/0/1517584073816?e=1679529600&v=beta&t=IVGv-jFg88ui6v7jCAff4yCTciDvEdpT86pxTA8oc9k" width="15%"> 
+
+### Michael Pasala 
+<img src="https://media.licdn.com/dms/image/C5603AQG1nBUk0Ubnrw/profile-displayphoto-shrink_400_400/0/1659914287400?e=1679529600&v=beta&t=ZXfy2TA6sQzoL9G9dNwPBQxoE4dspLI_bPZuuqZQv64" width="15%"> 
