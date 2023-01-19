@@ -158,7 +158,7 @@ Project submissions using [Github](http://github.com) and [Jupyter Notebook](htt
 
 ### Shruti Varade
 <img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-Headshot-1-scaled-600x800-c-default.jpg" width="15%"> 
-Rahul Jayaraman (he/him) is a PhD candidate in Physics at the Massachusetts Institute of Technology (MIT). He works with the Transiting Exoplanet Survey Satellite (TESS) group, with a specific focus on transient astrophysical phenomena and stellar astrophysics (i.e., pulsations and magnetic fields). As part of the "Data Analysis" class, he hopes to have you work with real TESS data in order to characterize the variability present in astrophysical sources and draw meaningful conclusions from this analysis. Outside of research, he likes to climb rocks (indoors), listen to the Weeknd, and read in-depth magazine profiles.
+
 
 ### Vitoria Gomes de Mattos Sousa
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Vitoria%20Gomes%20de%20Mattos%20Sousa.jpeg" width="15%"> 
@@ -168,7 +168,11 @@ Vitoria Gomes de Mattos Sousa is currently a fourth-year student at the Universi
 <img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-Headshot-1-scaled-600x800-c-default.jpg" width="15%"> 
 
 ### Ridhikasri Kanniappan
-<img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-Headshot-1-scaled-600x800-c-default.jpg" width="15%"> 
+<img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-Headshot-1-scaled-600x800-c-default.jpg" width="15%">
+
+### Tedd Adams
+<img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-Headshot-1-scaled-600x800-c-default.jpg" width="15%">
+Hello! My name is Tedd Adams, I am an Asian American in my third year of working toward completing my BS in Psychology and minor in Biology. I am studying to go to veterinary school after graduating and love most things plant or animal related. I’m currently working on constructing self sustaining ecosystems within portable enclosures in my free time, you can typically find me at the gym or the 3D Lab on campus, and I am always on the lookout for new intricate hobbies
 
 ### Daniela Hernandez
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Daniela%20Hernandez.jfif" width="15%"> 
@@ -182,5 +186,13 @@ I was born with the “horse bug” and after spending 12 years training and com
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Hongbin%20(Ben)%20Lin.jfif" width="15%"> 
 I'm a 3rd year Ph.D. Student in CUHK majoring in mechanical and automation engineering. I am interested in designing “smart” robot system that allows robots to adapt environment like human. The focus of my current research is A.I. for surgical autonomy. 
 
+### Martin Migliaro
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Martin%20Migliaro.jpg" width="15%"> 
+Ask me where I'm from and I will answer you with a list of places where I have been. Born in Buenos Aires, raised in the Denver, and currently living Mexico City, I'm wrapping up my PhD in Biomedical Science (neuroscience track) at UNAM. I am want to understand the neurophysiological mechanisms that link social status to reward through the lens of computational neuroethology. I’m passionate about harnessing machine learning to study naturalistic behavior and currently using pose estimation to automatize the classification of social interactions.
 
+### Jokubas Ausra
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Jokubas%20Ausra.jpg" width="15%"> 
+Being born in Lithuania and moving to Chicago, Dr. Ausra settled down in the Sunshine State of Arizona. After graduating with his B.S. in Chemical Engineering, Jokubas pursued further education in biofeedback research by studying how animal behavior can guide wireless power transfer to implantable sensors and stimulators for neural and cardiac applications. After receiving his Ph.D. in biomedical engineering, Dr. Ausra is working toward his goal of integrating physiological sensors with automatic control of the environment for people with disabilities. In his free time, he enjoys building breadboard computers, automating home appliances, and playing with pets.
+
+### Gia Hepburn
 
