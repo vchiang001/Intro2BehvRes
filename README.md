@@ -157,18 +157,14 @@ Project submissions using [Github](http://github.com) and [Jupyter Notebook](htt
 ## DeepLabCut Tutors & Mentors 
 
 ### Shruti Varade
-<img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-Headshot-1-scaled-600x800-c-default.jpg" width="15%"> 
-
 
 ### Vitoria Gomes de Mattos Sousa
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Vitoria%20Gomes%20de%20Mattos%20Sousa.jpeg" width="15%"> 
 Vitoria Gomes de Mattos Sousa is currently a fourth-year student at the University of Massachusetts - Boston. She is originally from Brazil, and has been living in Massachusetts for the past 6 years. Some of her field interests include Early Childhood Education and Care in Inclusive Settings, Trauma Informed Practices, and School, Child and Family Psychology. She is currently finishing her Practicum requirements in the MA Public School System and working as a Behavioral Therapist helping children build social-emotional, self-help, play and general life skills.
 
 ### Hiral Lunkad
-<img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-Headshot-1-scaled-600x800-c-default.jpg" width="15%"> 
 
 ### Ridhikasri Kanniappan
-<img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-Headshot-1-scaled-600x800-c-default.jpg" width="15%">
 
 ### Tedd Adams
 <img src="https://cssh.northeastern.edu/wp-content/uploads/2022/01/Kim-Lucas-Headshot-1-scaled-600x800-c-default.jpg" width="15%">
@@ -195,4 +191,8 @@ Ask me where I'm from and I will answer you with a list of places where I have b
 Being born in Lithuania and moving to Chicago, Dr. Ausra settled down in the Sunshine State of Arizona. After graduating with his B.S. in Chemical Engineering, Jokubas pursued further education in biofeedback research by studying how animal behavior can guide wireless power transfer to implantable sensors and stimulators for neural and cardiac applications. After receiving his Ph.D. in biomedical engineering, Dr. Ausra is working toward his goal of integrating physiological sensors with automatic control of the environment for people with disabilities. In his free time, he enjoys building breadboard computers, automating home appliances, and playing with pets.
 
 ### Gia Hepburn
+
+### Michelle Verhoeven
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Michelle%20Verhoeven.jpeg" width="15%"> 
+My name is Michelle Verhoeven, I am Dutch and decided to join the academic world by exchanging my small hometown for the big capital Amsterdam to start studying. There, I graduated from the Research Master in Human Movement Sciences at the Vrije Universiteit Amsterdam. For my master thesis, I conducted a validation study on using DeepLabCut for gait analysis in adults and newly walking toddlers. I recently moved to Belgium to start a PhD at Ghent University. My current research aims to investigate Selective Motor Control during gait (SMCg) in children with Developmental Coordination Disorder (DCD) and cerebral palsy (CP).
 
