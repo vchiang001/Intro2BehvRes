@@ -3,7 +3,7 @@
 
 # 2023 JAN to JUN: Introduction to Behavioural Research
 ## Instructor 
-Vic Shao-Chih Chiang 蔣紹志 (he/him/his)
+Vic Shao-Chih Chiang 蔣紹志 (he/him/his) - identifies as a gay cisgender male
 
 ## Course Content
 <img src="https://media.newyorker.com/photos/61169a9284b38b85152f2136/master/w_2240,c_limit/210823_r38857.jpg" width="50%"> 
@@ -50,27 +50,36 @@ In this class, I hope to present the class with relatable role models from diver
 + [Black Women in Biology, Ecology, Evolution, and Marine Science](https://docs.google.com/spreadsheets/d/1chSLhqclJbOEHrkk-0gEp_73bR54BepM133LJW2p54o/edit#gid=0) 
 + [Databases of Databases of Diverse Speakers in STEM](https://docs.google.com/document/u/1/d/e/2PACX-1vSlvHTZtOc6wG5C9xEc-bAIYofpeDHVjrrVc7Q_5IQdmXcLeaYd27nhoJD9jub_q-qAILxHknMGbggb/pub) 
 
-### Evan O'Loughlin
-<img src="https://500queerscientists.com/wp-content/uploads/2020/09/IMG_0982-copy.jpg" width="15%"> 
 
-### David Alagpulinsa
-<img src="https://researchers.mgh.harvard.edu/image/30314645/thumbnail/private/16881824" width="15%"> 
+### David Alagpulinsa (January 31st) 
+<img src="https://media.licdn.com/dms/image/D4E03AQGW733L29RrQQ/profile-displayphoto-shrink_800_800/0/1672981038023?e=1679529600&v=beta&t=fmmOimpGRh8bOIjz5PRw3KvJFlPFXe5Sl7tqxBcM12Y" width="15%"> 
 
-### Michelle Kunimoto
-<img src="https://space.mit.edu/wp-content/uploads/2020/09/michelle_kunimoto-1100x1100.jpg" width="15%"> 
+### Mark Charbonneau (February 2nd)
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Mark%20R.%20Charbonneau.jpg" width="15%"> 
+V.P. R&D. Ph.D. Computational and Systems Biology, Washington University in St. Louis
+· Cross-functional expertise in live biotherapeutic product development and microbiome research
+· Advanced several research programs from discovery to clinical studies at Synlogic
+· Established and led drug development collaboration with global pharma partner, securing $2M non-dilutive funding
+· Developed and validated in silico mechanistic models to predict product efficacy in metabolic disease
+· Effective people manager with demonstrated experience recruiting and developing talent
+A first-generation college graduate, Mark obtained his Ph.D. in Computational and Systems Biology in the laboratory of Jeffrey I. Gordon at Washington University in St Louis, studying the interactions between infant gut microbial communities and growth in animal models of undernutrition. He has a passion for translating basic science to real-world applications and has held several roles of increasing responsibility in biotechnology R&D organizations, most recently leading the Translational Sciences team at Synlogic, Inc ($SYBX). Mark integrates technical acumen and emotional intelligence to build high-functioning teams and foster innovation. In his role at Solarea, Mark leads the R&D team to define research strategy, to establish robust computational and experimental capabilities, and to develop a robust pipeline of products derived from the edible plant microbiome. Mark lives with his husband and their dog in Medford, MA.
 
-### Mark Charbonneau
-<img src="https://media.licdn.com/dms/image/C4E03AQGBOS11LGzGpA/profile-displayphoto-shrink_800_800/0/1605096583997?e=2147483647&v=beta&t=oGtLWXWfON4HcyOvAfuV9T6WBx575eeHIV43Sqy_RGc" width="15%"> 
+### Sabrina Benas (February 28th) 
+<img src="https://pbs.twimg.com/profile_images/1402079846969262080/HdWBFeid_400x400.jpg" width="15%"> 
 
 ### Rahul Jayaraman (April 25th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Rahul%20Jayaraman.JPG" width="15%"> 
 Rahul Jayaraman (he/him) is a PhD candidate in Physics at the Massachusetts Institute of Technology (MIT). He works with the Transiting Exoplanet Survey Satellite (TESS) group, with a specific focus on transient astrophysical phenomena and stellar astrophysics (i.e., pulsations and magnetic fields). As part of the "Data Analysis" class, he hopes to have you work with real TESS data in order to characterize the variability present in astrophysical sources and draw meaningful conclusions from this analysis. Outside of research, he likes to climb rocks (indoors), listen to the Weeknd, and read in-depth magazine profiles.
 
+### Evan O'Loughlin
+<img src="https://500queerscientists.com/wp-content/uploads/2020/09/IMG_0982-copy.jpg" width="15%"> 
+
 ### Sakeena Mihar
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Sakeena_Mihar.jpg" width="30%"> 
 Sakeena Mihar is the CEO and co-founder of Savyn, an award-winning social impact venture for inclusive digital mental health care providing virtual PTSD therapies in multiple languages based in Toronto, Ontario. Savyn removes barriers to accessing mental health support to heal trauma for vulnerable groups like refugees, immigrants, veterans and other trauma survivors. Savyn has won the Desjardin Cooperathon - Social Impact award, PennyAppeal Social Accelerator fund and is currently being incubated at Biomedical Zone, a partnership with St Michael’s hospital, and Social Ventures Zone at Toronto Metropolitan University (TMU). Sakeena also wears other hijabs in addition to being a founder. Sakeena is an equity, inclusion and social justice consultant and trainer. She runs workshops on Islamophobia, bystander intervention, equity and inclusion issues for several organizations, startups and political parties. She is also a speaker on gendered Islamophobia and spoken at the White Privilege conference in Toronto and at other events. She co-founded the first Muslim Faculty and Staff community network at TMU, advocating for systemic changes and implementing policy changes.
 
-
+### Michelle Kunimoto
+<img src="https://space.mit.edu/wp-content/uploads/2020/09/michelle_kunimoto-1100x1100.jpg" width="15%"> 
 
 ## Sexual diversity examples to contextualise the concepts learnt
 
@@ -127,12 +136,12 @@ Image source: https://www.currentaffairs.org/2021/10/why-we-should-teach-kids-to
 
 | Debate Motion  | Starting Vote: PRO | Starting Vote: OPP | Closing Vote: PRO | Closing Vote: OPP
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| This society prioritises facial appearance.  | Practice Only   |  Practice Only  |  Practice Only  |  Practice Only  |
+| This society prioritises appearances.  | Practice Only   |  Practice Only  |  Practice Only  |  Practice Only  |
 | Immortality is a good thing.   |   |    |   |   |
 | Falling in love with AI is considered love. |  |    |    |    |
-| The failures in life are worth thanking. |   |   |   |  |
-| We should drink a potion that eradicates sadness. |   | |   |   |
-| Calling mum a superwoman is a praise. |  |    |  |  |
+| Your partner escapes without you during an emergency, you should forgive them. |   |   |   |  |
+| We should drink a potion that eradicates our sadness. |   | |   |   |
+| Parents should tell their children fairy tales are fake. |  |    |  |  |
 | Repeatedly being in a bad romantic relationship is our fault. |    |  |   |    |
 
 
@@ -184,6 +193,8 @@ Vitoria Gomes de Mattos Sousa is currently a fourth-year student at the Universi
 
 ### Tedd Adams
 Hello! My name is Tedd Adams, I am an Asian American in my third year of working toward completing my BS in Psychology and minor in Biology. I am studying to go to veterinary school after graduating and love most things plant or animal related. I’m currently working on constructing self sustaining ecosystems within portable enclosures in my free time, you can typically find me at the gym or the 3D Lab on campus, and I am always on the lookout for new intricate hobbies
+
+### Shreyas Satish Shirsekar
 
 ### Daniela Hernandez
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Daniela%20Hernandez.jfif" width="15%"> 
