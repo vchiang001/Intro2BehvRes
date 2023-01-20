@@ -3,7 +3,7 @@
 
 # 2023 JAN to JUN: Introduction to Behavioural Research
 ## Instructor 
-Vic Shao-Chih Chiang 蔣紹志 (he/him/his) - identifies as a gay cisgender male
+Vic Shao-Chih Chiang 蔣紹志 (he/him/his)
 
 ## Course Content
 <img src="https://media.newyorker.com/photos/61169a9284b38b85152f2136/master/w_2240,c_limit/210823_r38857.jpg" width="50%"> 
@@ -63,6 +63,10 @@ V.P. R&D. Ph.D. Computational and Systems Biology, Washington University in St. 
 · Developed and validated in silico mechanistic models to predict product efficacy in metabolic disease
 · Effective people manager with demonstrated experience recruiting and developing talent
 A first-generation college graduate, Mark obtained his Ph.D. in Computational and Systems Biology in the laboratory of Jeffrey I. Gordon at Washington University in St Louis, studying the interactions between infant gut microbial communities and growth in animal models of undernutrition. He has a passion for translating basic science to real-world applications and has held several roles of increasing responsibility in biotechnology R&D organizations, most recently leading the Translational Sciences team at Synlogic, Inc ($SYBX). Mark integrates technical acumen and emotional intelligence to build high-functioning teams and foster innovation. In his role at Solarea, Mark leads the R&D team to define research strategy, to establish robust computational and experimental capabilities, and to develop a robust pipeline of products derived from the edible plant microbiome. Mark lives with his husband and their dog in Medford, MA.
+
+### Kate Minniti (February 23rd)
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Kate%20Minniti.jpg" width="15%"> 
+I am a PhD Candidate in Classical Archaeology in the Department of Ancient Mediterranean and Near Eastern Studies at the University of British Columbia (Vancouver). I have been working as a field archaeologist for more than a decade, and since 2015 I am a senior member of the NYU-UniMi archaeological expedition in Selinunte, Italy. My main research interests are connectivity and local responses to globalization in the Iron Age Mediterranean. I will briefly talk about archaeological research: how does fieldwork…work? How do we approach physical remains of buildings and objects? And how do we interpret an incomplete record?
 
 ### Sabrina Benas (February 28th) 
 <img src="https://pbs.twimg.com/profile_images/1402079846969262080/HdWBFeid_400x400.jpg" width="15%"> 
@@ -188,6 +192,8 @@ Project submissions using [Github](http://github.com) and [Jupyter Notebook](htt
 Vitoria Gomes de Mattos Sousa is currently a fourth-year student at the University of Massachusetts - Boston. She is originally from Brazil, and has been living in Massachusetts for the past 6 years. Some of her field interests include Early Childhood Education and Care in Inclusive Settings, Trauma Informed Practices, and School, Child and Family Psychology. She is currently finishing her Practicum requirements in the MA Public School System and working as a Behavioral Therapist helping children build social-emotional, self-help, play and general life skills.
 
 ### Hiral Lunkad
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Hiral%20Lunkad.jpg" width="15%"> 
+Hiral is a graduate student at the University of Massachusetts Boston with a major in Business Analytics. She holds a BE in Computer Science from RGPV University India. Throughout her early career, she has explored and utilized different technological skillset for web development and, application development. Having 2 years of professional experience as a Software engineer where she has experience working with Python, Jupyter,and data visualizations tools. She has contributed significantly to team projects, collaborative efforts and achievements through her collaboration and communication abilities which will be helpful to me for the position of DeepLabCut tutor as well. She is a strong believer in providing value and creating impact through her work and want her efforts to reach and change lives of larger groups of end users for a good.
 
 ### Ridhikasri Kanniappan
 
@@ -217,6 +223,8 @@ Ask me where I'm from and I will answer you with a list of places where I have b
 Being born in Lithuania and moving to Chicago, Dr. Ausra settled down in the Sunshine State of Arizona. After graduating with his B.S. in Chemical Engineering, Jokubas pursued further education in biofeedback research by studying how animal behavior can guide wireless power transfer to implantable sensors and stimulators for neural and cardiac applications. After receiving his Ph.D. in biomedical engineering, Dr. Ausra is working toward his goal of integrating physiological sensors with automatic control of the environment for people with disabilities. In his free time, he enjoys building breadboard computers, automating home appliances, and playing with pets.
 
 ### Gia Hepburn
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Gia_Hepburn.jpeg" width="15%"> 
+Gia completed her B.Sc. in Biology with a Minor in Chemistry from the University of The Bahamas (2020), after which she pursued a postgraduate diploma in Biomedical Science from Keele University (2021). Then in continued pursuit of higher education, she also completed a master’s degree in Biomedical Science (Blood Science) from Keele University (2022). Her research work consists of using deep neural networks and artificial intelligence for the establishment of a motor skills assessment tool for muscle-wasting conditions. She is currently due to continue her research work at Keele University as a technical assistant this spring. Gia has also been chosen as a 2023 DeepLabCut AI resident fellow and will be improving her artificial intelligence and DeepLabCut skills in Switzerland this coming summer.
 
 ### Michelle Verhoeven
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Michelle%20Verhoeven.jpeg" width="15%"> 
