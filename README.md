@@ -235,6 +235,7 @@ My name is Michelle Verhoeven, I am Dutch and decided to join the academic world
 
 ### Nathan Kirkpatrick
 <img src="https://media.licdn.com/dms/image/C5603AQGnR1tuWS9buQ/profile-displayphoto-shrink_400_400/0/1517584073816?e=1679529600&v=beta&t=IVGv-jFg88ui6v7jCAff4yCTciDvEdpT86pxTA8oc9k" width="15%"> 
+Nathan Kirkpatrick is a biomedical engineering grad student at Georgia Tech & Emory University. He uses DeepLabCut and neuromodulation techniques to study how rats adapt to nerve injury. Specifically, he uses DLC to recognize skeletal landmarks in biplanar high-speed x-ray video to monitor how animals compensate for the loss of peripheral signaling. He has undergraduate degrees in BME and English literature and was a Peace Corps volunteer in the Philippines for two years. After finishing his PhD, he hopes to get a job in industry working for a medical device company. 
 
 ### Michael Pasala 
 <img src="https://media.licdn.com/dms/image/C5603AQG1nBUk0Ubnrw/profile-displayphoto-shrink_400_400/0/1659914287400?e=1679529600&v=beta&t=ZXfy2TA6sQzoL9G9dNwPBQxoE4dspLI_bPZuuqZQv64" width="15%"> 
