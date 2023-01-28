@@ -50,9 +50,7 @@ In this class, I hope to present the class with relatable role models from diver
 + [Black Women in Biology, Ecology, Evolution, and Marine Science](https://docs.google.com/spreadsheets/d/1chSLhqclJbOEHrkk-0gEp_73bR54BepM133LJW2p54o/edit#gid=0) 
 + [Databases of Databases of Diverse Speakers in STEM](https://docs.google.com/document/u/1/d/e/2PACX-1vSlvHTZtOc6wG5C9xEc-bAIYofpeDHVjrrVc7Q_5IQdmXcLeaYd27nhoJD9jub_q-qAILxHknMGbggb/pub) 
 
-
-### David Alagpulinsa (January 31st) 
-<img src="https://media.licdn.com/dms/image/D4E03AQGW733L29RrQQ/profile-displayphoto-shrink_800_800/0/1672981038023?e=1679529600&v=beta&t=fmmOimpGRh8bOIjz5PRw3KvJFlPFXe5Sl7tqxBcM12Y" width="15%"> 
+### Alec Hall (January 31st)
 
 ### Mark Charbonneau (February 2nd)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Mark%20R.%20Charbonneau.jpg" width="15%"> 
@@ -70,6 +68,9 @@ I am a PhD Candidate in Classical Archaeology in the Department of Ancient Medit
 
 ### Sabrina Benas (February 28th) 
 <img src="https://pbs.twimg.com/profile_images/1402079846969262080/HdWBFeid_400x400.jpg" width="15%"> 
+
+### David Alagpulinsa (March 7th) 
+<img src="https://media.licdn.com/dms/image/D4E03AQGW733L29RrQQ/profile-displayphoto-shrink_800_800/0/1672981038023?e=1679529600&v=beta&t=fmmOimpGRh8bOIjz5PRw3KvJFlPFXe5Sl7tqxBcM12Y" width="15%"> 
 
 ### Rahul Jayaraman (April 25th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Rahul%20Jayaraman.JPG" width="15%"> 
@@ -186,6 +187,8 @@ Project submissions using [Github](http://github.com) and [Jupyter Notebook](htt
 ## DeepLabCut Tutors & Mentors 
 
 ### Shruti Varade
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Shruti%20Varade.jpg" width="15%"> 
+Shruti Varade is a graduate student at the University of Massachusetts, Boston currently pursuing Master's in Computer Science. She completed her undergraduate degree from the University of Mumbai, India. After completing Bachelor of Engineering in Computer Engineering she worked at a multi-national Company, TATA Consultancy Services as a Software Engineer for 2 years. She also gained professional expertise in analytics while working as an intern with Stepoutplay while analyzing football tournaments and player performance. She believes that her contribution to assisting students at DeepLab Cut will enable students with the requisite skills and knowledge boosted by their hardworking and dedication to propel them towards achieving their goals and help them make a significant contribution to the field of Data Analysis.
 
 ### Vitoria Gomes de Mattos Sousa
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Vitoria%20Gomes%20de%20Mattos%20Sousa.jpeg" width="15%"> 
