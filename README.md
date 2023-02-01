@@ -53,6 +53,8 @@ In this class, I hope to present the class with relatable role models from diver
 ### Alec Hall (January 31st)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Alec%20Hall.jpg" width="15%"> 
 Alec Hall is a third-year doctoral School Psychology student from UMASS Boston. Alec Hall is a native of Coney Island—a neighborhood in Brooklyn, New York. While Coney Island has a distinct history of being one of the world's first amusement park areas, it is a diverse lower socioeconoemic community filled with systematic and racial injustices. Alec initially wanted to begin his career as an FBI agent to fight crime but seen family members and friends subjected to the mass incarceration system and he changed his trajectory to work with people impacted by the incarceration system and later on youth. Alec received his BA  in Forensic Psychology from CUNY John Jay College of Criminal Justice, his MS.Ed.in Mental Health Counseling from CUNY Hunter and a M.Ed. in School Psychology from UMASS Boston last semester. Alec has done clinical work as a therapist and psychologist in training with varying populations such as young adults, incarcerated women, people with developmental disabilities, and youth with mental health issues. His passion is using his clinical, research, and consultation skills to improve educational systems for youth to prevent further incarceration in adulthood. 
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Alec.JPG" width="50%"> 
+Students with Alec
 
 ### Mark Charbonneau (February 2nd)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Mark%20R.%20Charbonneau.jpg" width="15%"> 
