@@ -65,6 +65,8 @@ V.P. R&D. Ph.D. Computational and Systems Biology, Washington University in St. 
 · Developed and validated in silico mechanistic models to predict product efficacy in metabolic disease
 · Effective people manager with demonstrated experience recruiting and developing talent
 A first-generation college graduate, Mark obtained his Ph.D. in Computational and Systems Biology in the laboratory of Jeffrey I. Gordon at Washington University in St Louis, studying the interactions between infant gut microbial communities and growth in animal models of undernutrition. He has a passion for translating basic science to real-world applications and has held several roles of increasing responsibility in biotechnology R&D organizations, most recently leading the Translational Sciences team at Synlogic, Inc ($SYBX). Mark integrates technical acumen and emotional intelligence to build high-functioning teams and foster innovation. In his role at Solarea, Mark leads the R&D team to define research strategy, to establish robust computational and experimental capabilities, and to develop a robust pipeline of products derived from the edible plant microbiome. Mark lives with his husband and their dog in Medford, MA.
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Mark.JPG" width="50%"> 
+Students with Mark
 
 ### Kate Minniti (February 23rd)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Kate%20Minniti.jpg" width="50%"> 
