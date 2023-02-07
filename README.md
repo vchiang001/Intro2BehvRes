@@ -74,9 +74,17 @@ I am a PhD Candidate in Classical Archaeology in the Department of Ancient Medit
 
 ### Sabrina Benas (February 28th) 
 <img src="https://pbs.twimg.com/profile_images/1402079846969262080/HdWBFeid_400x400.jpg" width="15%"> 
+My name is Sabrina and I'm from Argentina. I'm a physicist from Buenos Aires University and now I'm a PhD student in the Physiology and Algorithms of the Brain Lab and a teaching assistant at the University of Buenos Aires also. My motivation has always been to do experiments combined with big data analysis, so I'm studying how memories are formed in the brain of rodents in association with behavior. For that I'm using a miniscope and Deeplabcut, two amazing open source tools that I will introduce to you. 
 
 ### David Alagpulinsa (March 7th) 
 <img src="https://media.licdn.com/dms/image/D4E03AQGW733L29RrQQ/profile-displayphoto-shrink_800_800/0/1672981038023?e=1679529600&v=beta&t=fmmOimpGRh8bOIjz5PRw3KvJFlPFXe5Sl7tqxBcM12Y" width="15%"> 
+
+### Sakeena Mihar (April 6th)
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Sakeena_Mihar.jpg" width="30%"> 
+Sakeena Mihar is the CEO and co-founder of Savyn, an award-winning social impact venture for inclusive digital mental health care providing virtual PTSD therapies in multiple languages based in Toronto, Ontario. Savyn removes barriers to accessing mental health support to heal trauma for vulnerable groups like refugees, immigrants, veterans and other trauma survivors. Savyn has won the Desjardin Cooperathon - Social Impact award, PennyAppeal Social Accelerator fund and is currently being incubated at Biomedical Zone, a partnership with St Michael’s hospital, and Social Ventures Zone at Toronto Metropolitan University (TMU). Sakeena also wears other hijabs in addition to being a founder. Sakeena is an equity, inclusion and social justice consultant and trainer. She runs workshops on Islamophobia, bystander intervention, equity and inclusion issues for several organizations, startups and political parties. She is also a speaker on gendered Islamophobia and spoken at the White Privilege conference in Toronto and at other events. She co-founded the first Muslim Faculty and Staff community network at TMU, advocating for systemic changes and implementing policy changes.
+
+### Deepali Ravel (April 20th)
+<img src="https://connects.catalyst.harvard.edu/Profiles/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=87248342" width="15%"> 
 
 ### Rahul Jayaraman (April 25th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Rahul%20Jayaraman.JPG" width="15%"> 
@@ -84,10 +92,6 @@ Rahul Jayaraman (he/him) is a PhD candidate in Physics at the Massachusetts Inst
 
 ### Evan O'Loughlin
 <img src="https://500queerscientists.com/wp-content/uploads/2020/09/IMG_0982-copy.jpg" width="15%"> 
-
-### Sakeena Mihar
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Sakeena_Mihar.jpg" width="30%"> 
-Sakeena Mihar is the CEO and co-founder of Savyn, an award-winning social impact venture for inclusive digital mental health care providing virtual PTSD therapies in multiple languages based in Toronto, Ontario. Savyn removes barriers to accessing mental health support to heal trauma for vulnerable groups like refugees, immigrants, veterans and other trauma survivors. Savyn has won the Desjardin Cooperathon - Social Impact award, PennyAppeal Social Accelerator fund and is currently being incubated at Biomedical Zone, a partnership with St Michael’s hospital, and Social Ventures Zone at Toronto Metropolitan University (TMU). Sakeena also wears other hijabs in addition to being a founder. Sakeena is an equity, inclusion and social justice consultant and trainer. She runs workshops on Islamophobia, bystander intervention, equity and inclusion issues for several organizations, startups and political parties. She is also a speaker on gendered Islamophobia and spoken at the White Privilege conference in Toronto and at other events. She co-founded the first Muslim Faculty and Staff community network at TMU, advocating for systemic changes and implementing policy changes.
 
 ### Michelle Kunimoto
 <img src="https://space.mit.edu/wp-content/uploads/2020/09/michelle_kunimoto-1100x1100.jpg" width="15%"> 
@@ -239,12 +243,6 @@ Gia completed her B.Sc. in Biology with a Minor in Chemistry from the University
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Michelle%20Verhoeven.jpeg" width="15%"> 
 My name is Michelle Verhoeven, I am Dutch and decided to join the academic world by exchanging my small hometown for the big capital Amsterdam to start studying. There, I graduated from the Research Master in Human Movement Sciences at the Vrije Universiteit Amsterdam. For my master thesis, I conducted a validation study on using DeepLabCut for gait analysis in adults and newly walking toddlers. I recently moved to Belgium to start a PhD at Ghent University. My current research aims to investigate Selective Motor Control during gait (SMCg) in children with Developmental Coordination Disorder (DCD) and cerebral palsy (CP).
 
-### Zanna Vanterpool
-<img src="https://media.licdn.com/dms/image/C5603AQHS4ZXfShga7Q/profile-displayphoto-shrink_400_400/0/1540828271390?e=1679529600&v=beta&t=oEKpa3iA--5kevCRVfY87XJIleAGuRNsfcva733VIuk" width="15%"> 
-
 ### Nathan Kirkpatrick
 <img src="https://media.licdn.com/dms/image/C5603AQGnR1tuWS9buQ/profile-displayphoto-shrink_400_400/0/1517584073816?e=1679529600&v=beta&t=IVGv-jFg88ui6v7jCAff4yCTciDvEdpT86pxTA8oc9k" width="15%"> 
 Nathan Kirkpatrick is a biomedical engineering grad student at Georgia Tech & Emory University. He uses DeepLabCut and neuromodulation techniques to study how rats adapt to nerve injury. Specifically, he uses DLC to recognize skeletal landmarks in biplanar high-speed x-ray video to monitor how animals compensate for the loss of peripheral signaling. He has undergraduate degrees in BME and English literature and was a Peace Corps volunteer in the Philippines for two years. After finishing his PhD, he hopes to get a job in industry working for a medical device company. 
-
-### Michael Pasala 
-<img src="https://media.licdn.com/dms/image/C5603AQG1nBUk0Ubnrw/profile-displayphoto-shrink_400_400/0/1659914287400?e=1679529600&v=beta&t=ZXfy2TA6sQzoL9G9dNwPBQxoE4dspLI_bPZuuqZQv64" width="15%"> 
