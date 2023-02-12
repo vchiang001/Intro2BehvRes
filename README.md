@@ -216,7 +216,9 @@ Hello! My name is Ridhika. I am a junior at Umass Boston majoring in Psychology 
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Tedd%20Adams.jpg" width="15%"> 
 Hello! My name is Tedd Adams, I am an Asian American in my third year of working toward completing my BS in Psychology and minor in Biology. I am studying to go to veterinary school after graduating and love most things plant or animal related. I’m currently working on constructing self sustaining ecosystems within portable enclosures in my free time, you can typically find me at the gym or the 3D Lab on campus, and I am always on the lookout for new intricate hobbies
 
-### Shreyas Satish Shirsekar
+### Shreyas Shirsekar
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Shreyas%20Shirsekar.jpg" width="30%"> 
+Shreyas is a graduate student at the University of Massachusetts Boston, currently pursuing MS degree in Computer Science. After completing Bachelor of Engineering in Information Technology, he joined Rsutra Analytics and Consulting as an RPA developer where he worked with "Automation Anywhere" tool for developing Bots and automating processes for multiple clients. He has some experience working with IDEs like Jupyter Notebook and Google Colaboratory and libraries like Numpy, Pandas, Sci-Kit learn, and Tensorflow. In his free time, he enjoys playing squash, 8-ball pool, and soccer.
 
 ### Daniela Hernandez
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Daniela%20Hernandez.jfif" width="15%"> 
