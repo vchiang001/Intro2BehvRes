@@ -209,7 +209,7 @@ Vitoria Gomes de Mattos Sousa is currently a fourth-year student at the Universi
 Hiral is a graduate student at the University of Massachusetts Boston with a major in Business Analytics. She holds a BE in Computer Science from RGPV University India. Throughout her early career, she has explored and utilized different technological skillset for web development and, application development. Having 2 years of professional experience as a Software engineer where she has experience working with Python, Jupyter,and data visualizations tools. She has contributed significantly to team projects, collaborative efforts and achievements through her collaboration and communication abilities which will be helpful to me for the position of DeepLabCut tutor as well. She is a strong believer in providing value and creating impact through her work and want her efforts to reach and change lives of larger groups of end users for a good.
 
 ### Ridhika Kanniappan
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Ridhika%20Kanniappan.jpg" width="15%"> 
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Ridhika%20Kanniappan.jpg" width="30%"> 
 Hello! My name is Ridhika. I am a junior at Umass Boston majoring in Psychology BS and minoring in Biology. I enjoy art and movies during my free time. My future plans are to join the medical field.  I took this course the previous semester, I am happy to answer any questions you may have during your semester.
 
 ### Tedd Adams
