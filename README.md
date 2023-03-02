@@ -75,6 +75,8 @@ I am a PhD Candidate in Classical Archaeology in the Department of Ancient Medit
 ### Sabrina Benas (February 28th) 
 <img src="https://pbs.twimg.com/profile_images/1402079846969262080/HdWBFeid_400x400.jpg" width="15%"> 
 My name is Sabrina and I'm from Argentina. I'm a physicist from Buenos Aires University and now I'm a PhD student in the Physiology and Algorithms of the Brain Lab and a teaching assistant at the University of Buenos Aires also. My motivation has always been to do experiments combined with big data analysis, so I'm studying how memories are formed in the brain of rodents in association with behavior. For that I'm using a miniscope and Deeplabcut, two amazing open source tools that I will introduce to you. 
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/2023.02.28%20Sabri%202.jpg" width="50%"> 
+Students with Sabri
 
 ### David Alagpulinsa (March 7th) 
 <img src="https://media.licdn.com/dms/image/D4E03AQGW733L29RrQQ/profile-displayphoto-shrink_800_800/0/1672981038023?e=1679529600&v=beta&t=fmmOimpGRh8bOIjz5PRw3KvJFlPFXe5Sl7tqxBcM12Y" width="15%"> 
@@ -195,6 +197,8 @@ Project submissions using [Github](http://github.com) and [Jupyter Notebook](htt
 
 
 ## DeepLabCut Tutors & Mentors 
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/DLC%20Tutors.jpg" width="50%"> 
+
 
 ### Shruti Varade
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Shruti%20Varade.jpg" width="15%"> 
