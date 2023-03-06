@@ -68,10 +68,6 @@ A first-generation college graduate, Mark obtained his Ph.D. in Computational an
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Mark.JPG" width="50%"> 
 Students with Mark
 
-### Kate Minniti (February 23rd)
-<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Kate%20Minniti.jpg" width="50%"> 
-I am a PhD Candidate in Classical Archaeology in the Department of Ancient Mediterranean and Near Eastern Studies at the University of British Columbia (Vancouver). I have been working as a field archaeologist for more than a decade, and since 2015 I am a senior member of the NYU-UniMi archaeological expedition in Selinunte, Italy. My main research interests are connectivity and local responses to globalization in the Iron Age Mediterranean. I will briefly talk about archaeological research: how does fieldwork…work? How do we approach physical remains of buildings and objects? And how do we interpret an incomplete record?
-
 ### Sabrina Benas (February 28th) 
 <img src="https://pbs.twimg.com/profile_images/1402079846969262080/HdWBFeid_400x400.jpg" width="15%"> 
 My name is Sabrina and I'm from Argentina. I'm a physicist from Buenos Aires University and now I'm a PhD student in the Physiology and Algorithms of the Brain Lab and a teaching assistant at the University of Buenos Aires also. My motivation has always been to do experiments combined with big data analysis, so I'm studying how memories are formed in the brain of rodents in association with behavior. For that I'm using a miniscope and Deeplabcut, two amazing open source tools that I will introduce to you. 
@@ -79,11 +75,19 @@ My name is Sabrina and I'm from Argentina. I'm a physicist from Buenos Aires Uni
 Students with Sabri
 
 ### David Alagpulinsa (March 7th) 
-<img src="https://media.licdn.com/dms/image/D4E03AQGW733L29RrQQ/profile-displayphoto-shrink_800_800/0/1672981038023?e=1679529600&v=beta&t=fmmOimpGRh8bOIjz5PRw3KvJFlPFXe5Sl7tqxBcM12Y" width="15%"> 
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Alagpulinsa%2C%20David.jpeg" width="15%"> 
+Dr. Alagpulinsa is an Instructor at Massachusetts General Hospital and Harvard Medical School. He earned a bachelor’s degree in pharmacy from KNUST, Ghana, and a PhD in Interdisciplinary Biomedical Sciences from the University of Arkansas for Medical Sciences, USA. Research in Dr. Alagpulinsa's lab focuses on bone marrow and hematopoietic stem cell function in the contexts of aging, autoimmunity, hematologic cancer, and cardiometabolic disease. Current and ongoing research projects include single cell analyses of bone marrow function and genetic and pharmacologic manipulations to restore bone marrow function in type 1 diabetes, and targeted therapeutic delivery strategies to treat type 1 diabetes and associated cardiovascular disease in preclinical murine models.
+
+### Michelle Kunimoto (March 21st) 
+<img src="https://space.mit.edu/wp-content/uploads/2020/09/michelle_kunimoto-1100x1100.jpg" width="15%"> 
 
 ### Sakeena Mihar (April 6th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Sakeena_Mihar.jpg" width="30%"> 
 Sakeena Mihar is the CEO and co-founder of Savyn, an award-winning social impact venture for inclusive digital mental health care providing virtual PTSD therapies in multiple languages based in Toronto, Ontario. Savyn removes barriers to accessing mental health support to heal trauma for vulnerable groups like refugees, immigrants, veterans and other trauma survivors. Savyn has won the Desjardin Cooperathon - Social Impact award, PennyAppeal Social Accelerator fund and is currently being incubated at Biomedical Zone, a partnership with St Michael’s hospital, and Social Ventures Zone at Toronto Metropolitan University (TMU). Sakeena also wears other hijabs in addition to being a founder. Sakeena is an equity, inclusion and social justice consultant and trainer. She runs workshops on Islamophobia, bystander intervention, equity and inclusion issues for several organizations, startups and political parties. She is also a speaker on gendered Islamophobia and spoken at the White Privilege conference in Toronto and at other events. She co-founded the first Muslim Faculty and Staff community network at TMU, advocating for systemic changes and implementing policy changes.
+
+### Kate Minniti (Arpil 18th)
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Kate%20Minniti.jpg" width="50%"> 
+I am a PhD Candidate in Classical Archaeology in the Department of Ancient Mediterranean and Near Eastern Studies at the University of British Columbia (Vancouver). I have been working as a field archaeologist for more than a decade, and since 2015 I am a senior member of the NYU-UniMi archaeological expedition in Selinunte, Italy. My main research interests are connectivity and local responses to globalization in the Iron Age Mediterranean. I will briefly talk about archaeological research: how does fieldwork…work? How do we approach physical remains of buildings and objects? And how do we interpret an incomplete record?
 
 ### Deepali Ravel (April 20th)
 <img src="https://connects.catalyst.harvard.edu/Profiles/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=87248342" width="15%"> 
@@ -94,9 +98,6 @@ Rahul Jayaraman (he/him) is a PhD candidate in Physics at the Massachusetts Inst
 
 ### Evan O'Loughlin
 <img src="https://500queerscientists.com/wp-content/uploads/2020/09/IMG_0982-copy.jpg" width="15%"> 
-
-### Michelle Kunimoto
-<img src="https://space.mit.edu/wp-content/uploads/2020/09/michelle_kunimoto-1100x1100.jpg" width="15%"> 
 
 ## Sexual diversity examples to contextualise the concepts learnt
 
