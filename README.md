@@ -77,6 +77,8 @@ Students with Sabri
 ### David Alagpulinsa (March 7th) 
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Alagpulinsa%2C%20David.jpeg" width="15%"> 
 Dr. Alagpulinsa is an Instructor at Massachusetts General Hospital and Harvard Medical School. He earned a bachelor’s degree in pharmacy from KNUST, Ghana, and a PhD in Interdisciplinary Biomedical Sciences from the University of Arkansas for Medical Sciences, USA. Research in Dr. Alagpulinsa's lab focuses on bone marrow and hematopoietic stem cell function in the contexts of aging, autoimmunity, hematologic cancer, and cardiometabolic disease. Current and ongoing research projects include single cell analyses of bone marrow function and genetic and pharmacologic manipulations to restore bone marrow function in type 1 diabetes, and targeted therapeutic delivery strategies to treat type 1 diabetes and associated cardiovascular disease in preclinical murine models.
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20David.JPG" width="50%"> 
+Students with David
 
 ### Michelle Kunimoto (March 21st) 
 <img src="https://space.mit.edu/wp-content/uploads/2020/09/michelle_kunimoto-1100x1100.jpg" width="15%"> 
