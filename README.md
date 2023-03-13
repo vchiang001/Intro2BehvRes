@@ -81,7 +81,8 @@ Dr. Alagpulinsa is an Instructor at Massachusetts General Hospital and Harvard M
 Students with David
 
 ### Michelle Kunimoto (March 21st) 
-<img src="https://space.mit.edu/wp-content/uploads/2020/09/michelle_kunimoto-1100x1100.jpg" width="15%"> 
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/mkunimoto.png" width="15%">
+Michelle Kunimoto is a postdoctoral scholar at MIT working on NASA’s Transiting Exoplanet Survey Satellite (TESS) mission. Her research aims to understand the demographics and diversity of planets beyond our Solar System ("exoplanets"), especially through exoplanet discovery, exoplanet characterization, and the development of new tools and statistical frameworks for analyzing exoplanet survey data. Across all of her planet-hunting endeavours, Dr. Kunimoto has found over 2500 planets and planet candidates. She will talk about her research on conducting surveys for new exoplanets, and how these surveys can bias our understanding of planet populations.
 
 ### Sakeena Mihar (April 6th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Sakeena_Mihar.jpg" width="30%"> 
@@ -157,9 +158,9 @@ Image source: https://www.currentaffairs.org/2021/10/why-we-should-teach-kids-to
 | Debate Motion  | Starting Vote: PRO | Starting Vote: OPP | Closing Vote: PRO | Closing Vote: OPP
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | This society prioritises appearances.  | Practice Only   |  Practice Only  |  Practice Only  |  Practice Only  |
-| Immortality is a good thing.   |   |    |   |   |
-| Falling in love with AI is considered love. |  |    |    |    |
-| Your partner escapes without you during an emergency, you should forgive them. |   |   |   |  |
+| Immortality is a good thing.   | 25%  | 75%   | 80%  | 20%  |
+| Falling in love with AI is considered love. | 21% |  79%  |  89%  | 11%   |
+| Your partner escapes without you during an emergency, you should forgive them. | 60%  | 40%  | 83%  | 17% |
 | We should drink a potion that eradicates our sadness. |   | |   |   |
 | Parents should tell their children fairy tales are fake. |  |    |  |  |
 | Repeatedly being in a bad romantic relationship is our fault. |    |  |   |    |
