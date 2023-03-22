@@ -83,6 +83,8 @@ Students with David
 ### Michelle Kunimoto (March 21st) 
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/mkunimoto.png" width="15%">
 Michelle Kunimoto is a postdoctoral scholar at MIT working on NASA’s Transiting Exoplanet Survey Satellite (TESS) mission. Her research aims to understand the demographics and diversity of planets beyond our Solar System ("exoplanets"), especially through exoplanet discovery, exoplanet characterization, and the development of new tools and statistical frameworks for analyzing exoplanet survey data. Across all of her planet-hunting endeavours, Dr. Kunimoto has found over 2500 planets and planet candidates. She will talk about her research on conducting surveys for new exoplanets, and how these surveys can bias our understanding of planet populations.
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Dr%20Kunimoto.JPG" width="50%"> 
+Students with Dr Kunimoto
 
 ### Sakeena Mihar (April 6th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Sakeena_Mihar.jpg" width="30%"> 
@@ -98,9 +100,6 @@ I am a PhD Candidate in Classical Archaeology in the Department of Ancient Medit
 ### Rahul Jayaraman (April 25th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Rahul%20Jayaraman.JPG" width="15%"> 
 Rahul Jayaraman (he/him) is a PhD candidate in Physics at the Massachusetts Institute of Technology (MIT). He works with the Transiting Exoplanet Survey Satellite (TESS) group, with a specific focus on transient astrophysical phenomena and stellar astrophysics (i.e., pulsations and magnetic fields). As part of the "Data Analysis" class, he hopes to have you work with real TESS data in order to characterize the variability present in astrophysical sources and draw meaningful conclusions from this analysis. Outside of research, he likes to climb rocks (indoors), listen to the Weeknd, and read in-depth magazine profiles.
-
-### Evan O'Loughlin
-<img src="https://500queerscientists.com/wp-content/uploads/2020/09/IMG_0982-copy.jpg" width="15%"> 
 
 ## Sexual diversity examples to contextualise the concepts learnt
 
