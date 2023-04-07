@@ -89,6 +89,8 @@ Students with Dr Kunimoto
 ### Sakeena Mihar (April 6th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Sakeena_Mihar.jpg" width="30%"> 
 Sakeena Mihar is the CEO and co-founder of Savyn, an award-winning social impact venture for inclusive digital mental health care providing virtual PTSD therapies in multiple languages based in Toronto, Ontario. Savyn removes barriers to accessing mental health support to heal trauma for vulnerable groups like refugees, immigrants, veterans and other trauma survivors. Savyn has won the Desjardin Cooperathon - Social Impact award, PennyAppeal Social Accelerator fund and is currently being incubated at Biomedical Zone, a partnership with St Michael’s hospital, and Social Ventures Zone at Toronto Metropolitan University (TMU). Sakeena also wears other hijabs in addition to being a founder. Sakeena is an equity, inclusion and social justice consultant and trainer. She runs workshops on Islamophobia, bystander intervention, equity and inclusion issues for several organizations, startups and political parties. She is also a speaker on gendered Islamophobia and spoken at the White Privilege conference in Toronto and at other events. She co-founded the first Muslim Faculty and Staff community network at TMU, advocating for systemic changes and implementing policy changes.
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Sakeena.jpg" width="75%"> 
+Students with Sakeena
 
 ### Kate Minniti (Arpil 18th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Kate%20Minniti.jpg" width="50%"> 
@@ -107,6 +109,9 @@ Rahul Jayaraman (he/him) is a PhD candidate in Physics at the Massachusetts Inst
 Image source: https://doi.org/10.1038/s41559-019-1019-7
 </p>
 Some of these examples were obtained from Evolution's Rainbow: A Queer Species Database Of 200+ Organisms https://www.genderinclusivebiology.com/newsletter/evolutions-rainbow-a-queer-species-database-of-200-organisms
+</p>
+
+Funnell, T. R., Fialkowski, R. J., & Dijkstra, P. D. (2022). Social dominance does not increase oxidative stress in a female dominance hierarchy of an African cichlid fish. Ethology, 128, 15– 25. https://doi.org/10.1111/eth.13232
 </p>
 
 Álvarez, B., Koene, J.M., Hollis, K.L. et al. Learning to anticipate mate presence shapes individual sex roles in the hermaphroditic pond snail, Lymnaea stagnalis. Anim Cogn (2022). https://doi.org/10.1007/s10071-022-01623-7
@@ -160,8 +165,8 @@ Image source: https://www.currentaffairs.org/2021/10/why-we-should-teach-kids-to
 | Immortality is a good thing.   | 25%  | 75%   | 80%  | 20%  |
 | Falling in love with AI is considered love. | 21% |  79%  |  89%  | 11%   |
 | Your partner escapes without you during an emergency, you should forgive them. | 60%  | 40%  | 83%  | 17% |
-| We should drink a potion that eradicates our sadness. |   | |   |   |
-| Parents should tell their children fairy tales are fake. |  |    |  |  |
+| We should drink a potion that eradicates our sadness. |21%   | 79% | 55%  |  45%  |
+| Parents should tell their children fairy tales are fake. | 56% | 44%   | 50% | 50% |
 | Repeatedly being in a bad romantic relationship is our fault. |    |  |   |    |
 
 
