@@ -167,7 +167,7 @@ Image source: https://www.currentaffairs.org/2021/10/why-we-should-teach-kids-to
 | Your partner escapes without you during an emergency, you should forgive them. | 60%  | 40%  | 83%  | 17% |
 | We should drink a potion that eradicates our sadness. |21%   | 79% | 55%  |  45%  |
 | Parents should tell their children fairy tales are fake. | 56% | 44%   | 50% | 50% |
-| Repeatedly being in a bad romantic relationship is our fault. |    |  |   |    |
+| Repeatedly being in a bad romantic relationship is our fault. | 50%   | 50% | 53%  |  47%  |
 
 
 ## Group Projects using DeepLabCut on wildlife animals (20% of final grade)
@@ -261,5 +261,8 @@ Gia completed her B.Sc. in Biology with a Minor in Chemistry from the University
 My name is Michelle Verhoeven, I am Dutch and decided to join the academic world by exchanging my small hometown for the big capital Amsterdam to start studying. There, I graduated from the Research Master in Human Movement Sciences at the Vrije Universiteit Amsterdam. For my master thesis, I conducted a validation study on using DeepLabCut for gait analysis in adults and newly walking toddlers. I recently moved to Belgium to start a PhD at Ghent University. My current research aims to investigate Selective Motor Control during gait (SMCg) in children with Developmental Coordination Disorder (DCD) and cerebral palsy (CP).
 
 ### Nathan Kirkpatrick
-<img src="https://media.licdn.com/dms/image/C5603AQGnR1tuWS9buQ/profile-displayphoto-shrink_400_400/0/1517584073816?e=1679529600&v=beta&t=IVGv-jFg88ui6v7jCAff4yCTciDvEdpT86pxTA8oc9k" width="15%"> 
+<img src="https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/9/143/files/2015/07/Nathan-Profile-300x300.jpg" width="15%"> 
 Nathan Kirkpatrick is a biomedical engineering grad student at Georgia Tech & Emory University. He uses DeepLabCut and neuromodulation techniques to study how rats adapt to nerve injury. Specifically, he uses DLC to recognize skeletal landmarks in biplanar high-speed x-ray video to monitor how animals compensate for the loss of peripheral signaling. He has undergraduate degrees in BME and English literature and was a Peace Corps volunteer in the Philippines for two years. After finishing his PhD, he hopes to get a job in industry working for a medical device company. 
+
+## Recruitment for DeepLabCut Tutors for next semester
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/DeepLabCut_Tutor_Hiring.jpg" width="100%"> 
