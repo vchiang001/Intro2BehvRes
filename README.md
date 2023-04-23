@@ -95,10 +95,14 @@ Students with Sakeena
 ### Kate Minniti (Arpil 18th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Kate%20Minniti.jpg" width="50%"> 
 I am a PhD Candidate in Classical Archaeology in the Department of Ancient Mediterranean and Near Eastern Studies at the University of British Columbia (Vancouver). I have been working as a field archaeologist for more than a decade, and since 2015 I am a senior member of the NYU-UniMi archaeological expedition in Selinunte, Italy. My main research interests are connectivity and local responses to globalization in the Iron Age Mediterranean. I will briefly talk about archaeological research: how does fieldwork…work? How do we approach physical remains of buildings and objects? And how do we interpret an incomplete record?
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Kate.JPG" width="50%"> 
+Students with Kate
 
 ### Deepali Ravel (April 20th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Ravel%2C%20Deepali.jpg" width="15%"> 
 I am a Lecturer at Harvard Medical School and the Harvard T.H. Chan School of Public Health, where I serve as Director of Education for our Graduate Program in Bacteriology and Infectious Diseases Consortium. I teach and lead development of courses and professional development activities for biology PhD students and public health Master's students. My research background is in malaria biology, and my core interest as an educator now is preparing students to use their biology training as a tool to promote health equity and justice. In addition to my curriculum roles, I lead initiatives to support the professional growth, personal well-being, and mentorship access of undergraduate and postbaccalaureate scholars, graduate students, and postdoctoral trainees from marginalized or minoritized identities in our communities.
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Dr%20Ravel.JPG" width="50%"> 
+Students with Dr Ravel
 
 ### Rahul Jayaraman (April 25th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Rahul%20Jayaraman.JPG" width="15%"> 
