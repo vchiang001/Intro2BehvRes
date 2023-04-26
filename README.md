@@ -107,6 +107,8 @@ Students with Dr Ravel
 ### Rahul Jayaraman (April 25th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Rahul%20Jayaraman.JPG" width="15%"> 
 Rahul Jayaraman (he/him) is a PhD candidate in Physics at the Massachusetts Institute of Technology (MIT). He works with the Transiting Exoplanet Survey Satellite (TESS) group, with a specific focus on transient astrophysical phenomena and stellar astrophysics (i.e., pulsations and magnetic fields). As part of the "Data Analysis" class, he hopes to have you work with real TESS data in order to characterize the variability present in astrophysical sources and draw meaningful conclusions from this analysis. Outside of research, he likes to climb rocks (indoors), listen to the Weeknd, and read in-depth magazine profiles.
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Rahul.JPG" width="50%"> 
+Students with Rahul 
 
 ## Sexual diversity examples to contextualise the concepts learnt
 
