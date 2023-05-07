@@ -209,6 +209,35 @@ Image source: http://www.mackenziemathislab.org/deeplabcut
 Project submissions using [Github](http://github.com) and [Jupyter Notebook](https://jupyter.org/) 
 </p>
 
+###  Green sea turtle (Chelonia mydas) 
+<p float="left">
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Turtles%20-%20IMG_8007.JPG" width="30%">
+  <img src= "https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Turtles.gif" width="15%">
+</p>
+
+### African penguin (Spheniscus demersus)
+<p float="left">
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Penguins%20-%20Presentation.JPG" width="30%">
+  <img src= "https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Penguins.gif" width="50%">
+</p>
+
+### Leopard whipray (Himantura leoparda)
+<p float="left">
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Stingrays%20-%20IMG_8045.JPG" width="30%">
+  <img src= "https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Stingrays.gif" width="15%">
+</p>
+
+### Cape porcupine (Hystrix africaeaustralis)
+<p float="left">
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Porcupines%20-%20IMG_8018.JPG" width="30%">
+  <img src= "https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Porcupines.gif" width="15%">
+</p>
+
+### Pacific sea nettle (Chrysaora fuscescens)
+<p float="left">
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Jellyfish%20-%20IMG_8030.JPG" width="30%">
+  <img src= "https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Jellyfish.gif" width="15%">
+</p>
 
 
 ## DeepLabCut Tutors & Mentors 
