@@ -1,7 +1,7 @@
 
 
 
-# 2023 JAN to JUN: Introduction to Behavioural Research
+# 2023 JAN to MAY: Introduction to Behavioural Research
 ## Instructor 
 Vic Shao-Chih Chiang 蔣紹志 (he/him/his) - identifies as a cisgender gay male
 
