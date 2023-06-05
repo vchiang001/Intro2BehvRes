@@ -51,14 +51,42 @@ In this class, I hope to present the class with relatable role models from diver
 + [Databases of Databases of Diverse Speakers in STEM](https://docs.google.com/document/u/1/d/e/2PACX-1vSlvHTZtOc6wG5C9xEc-bAIYofpeDHVjrrVc7Q_5IQdmXcLeaYd27nhoJD9jub_q-qAILxHknMGbggb/pub) 
 
 ### Sofía Miñano (June 5th)
+### Aleen Shakeel (June 5th)
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Aleen_Shakeel.png" width="15%"> 
+Aleen has completed her Bachelor of Science (Honors) in the Biomedical Science program from Toronto Metropolitan University. She has explored computational methods used in bioinformatics and wet lab techniques while researching the role of kinases in cancer. Aleen currently works in the science communication field to develop the climate science activity program for a national charitable organization called Let's Talk Science. As the Lead Scientist for Savyn, Aleen is learning more about the intersection between translational research and product development. In her free time, she enjoys creating digital art and developing her astrophotography skills!
+
 ### Yu-Chi Wang (June 7th)
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Yu-Chi%20Wang.png" width="15%"> 
+Dr. Yu-Chi Wang (no pronouns) is the School Climate Research Manager at GLSEN. Yu-Chi draws from educational and social psychology, public health, games studies, and learning sciences to conduct research aimed at reducing prejudice against and bettering outcomes for trans and queer youth. In Yu-Chi’s spare time, Yu-Chi enjoys board games, dancing, and karaoke. In the future Yu-Chi hopes to run a board game cafe with research-based programming especially for queer youth of color!
+
 ### Ufuoma Ovienmhada (June 7th)
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Ufuoma%20Ovienmhada.jpg" width="15%"> 
+Ufuoma Ovienmhada is a third year PhD student at MIT in the Aeronautics and Astronautics Department. She studies applications of satellite remote sensing data for environmental justice. In her dissertation, she employs a multi-method approach to research the distribution of environmental hazards in carceral landscapes and co-design Earth Observation technologies to support environmental justice advocacy. Prior to beginning her PhD, she completed a Masters in the MIT Media Lab. Her Masters Thesis focused on applying remote sensing, low-cost sensors, drone data collection and community-centered design techniques to invasive plant species management in West Africa. Before arriving at MIT, she completed a Bachelor's degree in Mechanical Engineering from Stanford University.
+</p>
+Topic: Satellite Data for Environmental Justice: A Case Study of U.S. Prison Landscapes
+</p>
+Abstract: Over the last few decades, numerous scholars have documented the fact that in general, people of color and other socio-economically marginalized groups in the United States experience a disproportionate burden of environmental challenges - this pattern is referred to as environmental justice (EJ). Satellite Earth Observations (EO) can be used to monitor air quality, water quality, extreme weather and other quantities relevant to Environmental Justice. However the application of this technology in measuring environmental justice, or supporting EJ advocacy efforts has not been widely explored. 
+On a high level, I study technological and methodological interventions in the pursuit of environmental justice and liberatory politics. This is explored through case study research of prison ecology in the United States, an environmental justice issue referring to a pattern of exposure to environmental hazards in carceral landscapes. The first phase of research employs semi-structured interviews with community organizers to understand the potential role and limitations of geospatial data in EJ organizing. Several ethical considerations came up in the design of this research which will be the topic of the presentation to the class. I will share reflections on interview protocol design, recruitment, informed consent and privacy.
+
 ### Jacob Kodner (June 12th)
-### Sokha Eng (June 12th) 
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Jacob%20Kodner.jpg" width="15%"> 
+Jacob Aaron Kodner is an incoming PhD student in Linguistics at Harvard University. He is interested in the grammatical structure of a variety of East Asian languages, especially those that are endangered and not as well-researched. He has studied verb constructions in Manchu, a critically endangered language of China, and has worked with speakers of this language to develop an online recorded dictionary. He has also conducted fieldwork with speakers of Atayal, an endangered and indigenous language of Taiwan, to research how speakers convey sources of evidence. His presentation will cover fieldwork as a research method, specifically through the lens of his research on Atayal.
+
+### Sokha Eng (June 12th)
 ### Dawn Anderson (June 21st)
 ### Dorothy Majewski (June 26th) 
 ### Lilly Chin (June 28th) 
-### Jason Chang (July 5th) 
+
+### Jason (Chang) Marvin (July 5th)
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Jason%20(Chang)%20Marvin.jpg" width="15%"> 
+Jason C. Marvin, PhD (he/they)
+</p>
+Harvard Medical School Dean’s Postdoctoral Fellow
+</p>
+Massachusetts General Hospital, Musculoskeletal Genetics & Developmental Biology Laboratory (PI: Jenna Galloway, PhD)
+</p>
+Dr. Jason (Chang) Marvin is a Dean’s Postdoctoral Fellow in the Center for Regenerative Medicine at Massachusetts General Hospital (MGH) and the Department of Genetics at Harvard Medical School. He received his B.S. and Ph.D. in biomedical engineering from the University of Texas at Dallas and Cornell University, respectively. Their research leverages naturally regenerative animal models to study the biological mechanisms underlying effective musculoskeletal tissue repair and develop tailored therapeutic strategies. As a genderqueer and gay scientist, Dr. Marvin has received numerous accolades for championing institutional and national efforts (e.g., Out in STEM, Biomedical Engineering Society, Orthopaedic Research Society, BME Organizations Leading Diversity) focused on inclusive pedagogy, mentorship, and advocating for the support and retention of historically marginalized and minoritized communities in STEM. Their presentation will cover best practices in hypothesis testing, experimental design, and data analysis & visualization with an emphasis on the biological sciences and bioengineering research.  
+
 
 ## Sexual diversity examples to contextualise the concepts learnt
 
