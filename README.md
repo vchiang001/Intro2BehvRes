@@ -3,7 +3,7 @@
 
 # 2023 MAY to JULY: Introduction to Behavioural Research
 ## Instructor 
-Vic Chiang - identifies as a cisgender gay male
+Vic Chiang (he/him/his) - identifies as a cisgender gay male
 
 ## Course Content
 <img src="https://media.newyorker.com/photos/61169a9284b38b85152f2136/master/w_2240,c_limit/210823_r38857.jpg" width="50%"> 
@@ -51,13 +51,25 @@ In this class, I hope to present the class with relatable role models from diver
 + [Databases of Databases of Diverse Speakers in STEM](https://docs.google.com/document/u/1/d/e/2PACX-1vSlvHTZtOc6wG5C9xEc-bAIYofpeDHVjrrVc7Q_5IQdmXcLeaYd27nhoJD9jub_q-qAILxHknMGbggb/pub) 
 
 ### Sofía Miñano (June 5th)
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Sofia%20Minano.jpeg" width="50%"> 
+
 ### Aleen Shakeel (June 5th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Aleen_Shakeel.png" width="15%"> 
 Aleen has completed her Bachelor of Science (Honors) in the Biomedical Science program from Toronto Metropolitan University. She has explored computational methods used in bioinformatics and wet lab techniques while researching the role of kinases in cancer. Aleen currently works in the science communication field to develop the climate science activity program for a national charitable organization called Let's Talk Science. As the Lead Scientist for Savyn, Aleen is learning more about the intersection between translational research and product development. In her free time, she enjoys creating digital art and developing her astrophotography skills!
+<p float="left">
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/UMB%20Lec%20-%20Aleen1.jpg" width="45%" />
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/UMB%20Lec%20-%20Aleen2.jpg" width="45%" />
+</p>
+
 
 ### Yu-Chi Wang (June 7th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Yu-Chi%20Wang.png" width="15%"> 
 Dr. Yu-Chi Wang (no pronouns) is the School Climate Research Manager at GLSEN. Yu-Chi draws from educational and social psychology, public health, games studies, and learning sciences to conduct research aimed at reducing prejudice against and bettering outcomes for trans and queer youth. In Yu-Chi’s spare time, Yu-Chi enjoys board games, dancing, and karaoke. In the future Yu-Chi hopes to run a board game cafe with research-based programming especially for queer youth of color!
+<p float="left">
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/UMB%20Lec%20-%20Yu-Chi1.png" width="45%" />
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/UMB%20Lec%20-%20Yu-Chi2.png" width="45%" />
+</p>
+
 
 ### Ufuoma Ovienmhada (June 7th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Ufuoma%20Ovienmhada.jpg" width="15%"> 
@@ -67,13 +79,33 @@ Topic: Satellite Data for Environmental Justice: A Case Study of U.S. Prison Lan
 </p>
 Abstract: Over the last few decades, numerous scholars have documented the fact that in general, people of color and other socio-economically marginalized groups in the United States experience a disproportionate burden of environmental challenges - this pattern is referred to as environmental justice (EJ). Satellite Earth Observations (EO) can be used to monitor air quality, water quality, extreme weather and other quantities relevant to Environmental Justice. However the application of this technology in measuring environmental justice, or supporting EJ advocacy efforts has not been widely explored. 
 On a high level, I study technological and methodological interventions in the pursuit of environmental justice and liberatory politics. This is explored through case study research of prison ecology in the United States, an environmental justice issue referring to a pattern of exposure to environmental hazards in carceral landscapes. The first phase of research employs semi-structured interviews with community organizers to understand the potential role and limitations of geospatial data in EJ organizing. Several ethical considerations came up in the design of this research which will be the topic of the presentation to the class. I will share reflections on interview protocol design, recruitment, informed consent and privacy.
+<p float="left">
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/UMB%20Lec%20-%20Ufuoma1.jpg" width="45%" />
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/UMB%20Lec%20-%20Ufuoma2.jpg" width="45%" />
+</p>
+
 
 ### Jacob Kodner (June 12th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Jacob%20Kodner.jpg" width="15%"> 
 Jacob Aaron Kodner is an incoming PhD student in Linguistics at Harvard University. He is interested in the grammatical structure of a variety of East Asian languages, especially those that are endangered and not as well-researched. He has studied verb constructions in Manchu, a critically endangered language of China, and has worked with speakers of this language to develop an online recorded dictionary. He has also conducted fieldwork with speakers of Atayal, an endangered and indigenous language of Taiwan, to research how speakers convey sources of evidence. His presentation will cover fieldwork as a research method, specifically through the lens of his research on Atayal.
+<p float="left">
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/UMB%20Lec%20-%20Jacob1.jpg" width="45%" />
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/UMB%20Lec%20-%20Jacob2.jpg" width="45%" />
+</p>
+
 
 ### Sokha Eng (June 12th)
+<p float="left">
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/UMB%20Lec%20-%20Sokha1.jpg" width="45%" />
+  <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/UMB%20Lec%20-%20Sokha2.jpg" width="45%" />
+</p>
+
 ### Dawn Anderson (June 21st)
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Dawn%20Anderson.png" width="15%"> 
+Dawn is a PhD candidate at the University of Massachusetts Boston in the School for Global Inclusion and Social Development.  She has been working to strengthen the cultural and community responsiveness of teachers in K-12 classrooms by centering the local history and contributions of Indigenous and Black communities.  By merging her interests in historic preservation, travel, photography, performing arts, and genealogy, she supports teachers in Illinois and Massachusetts who are working to strengthen their cultural and community responsiveness.  For her multiple case study, she uses an explanatory sequential mixed-method approach to better understand teacher participants background, practices, and beliefs.  The aim of her dissertation project is to explain why local black history has not been taught, challenges teaching it and the impact on students. 
+Professionally, Dawn has worked in the field of International Education at Northeastern University and in Residential Life at MIT.  She is a wife, mother and a proud House Head from the suburbs of Chicago.
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Dawn.JPG" width="50%"> 
+
 ### Dorothy Majewski (June 26th) 
 ### Lilly Chin (June 28th) 
 
