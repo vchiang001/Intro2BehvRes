@@ -106,8 +106,11 @@ Dawn is a PhD candidate at the University of Massachusetts Boston in the School 
 Professionally, Dawn has worked in the field of International Education at Northeastern University and in Residential Life at MIT.  She is a wife, mother and a proud House Head from the suburbs of Chicago.
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Dawn.JPG" width="50%"> 
 
-### Dorothy Majewski (June 26th) 
-### Lilly Chin (June 28th) 
+### Dorothy Majewski (June 26th)
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Dorothy.JPG" width="50%"> 
+
+### Lilly Chin (June 28th)
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Lilly.JPG" width="50%"> 
 
 ### Jason (Chang) Marvin (July 5th)
 <img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Jason%20(Chang)%20Marvin.jpg" width="15%"> 
@@ -126,6 +129,9 @@ Dr. Jason (Chang) Marvin is a Dean’s Postdoctoral Fellow in the Center for Reg
 Image source: https://doi.org/10.1038/s41559-019-1019-7
 </p>
 Some of these examples were obtained from Evolution's Rainbow: A Queer Species Database Of 200+ Organisms https://www.genderinclusivebiology.com/newsletter/evolutions-rainbow-a-queer-species-database-of-200-organisms
+</p>
+
+J F McLaughlin and others, Multivariate Models of Animal Sex: Breaking Binaries Leads to a Better Understanding of Ecology and Evolution, Integrative and Comparative Biology, 2023;, icad027, https://doi.org/10.1093/icb/icad027
 </p>
 
 Funnell, T. R., Fialkowski, R. J., & Dijkstra, P. D. (2022). Social dominance does not increase oxidative stress in a female dominance hierarchy of an African cichlid fish. Ethology, 128, 15– 25. https://doi.org/10.1111/eth.13232
@@ -179,10 +185,10 @@ Image source: https://www.currentaffairs.org/2021/10/why-we-should-teach-kids-to
 | Debate Motion  | Starting Vote: PRO | Starting Vote: OPP | Closing Vote: PRO | Closing Vote: OPP
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Your partner escapes without you during an emergency, you should forgive them.  | Practice Only   |  Practice Only  |  Practice Only  |  Practice Only  |
-| If superheroes existed, the world would be a better place.  |  |    |  |   |
-| Right before we die, we would read a poem rather than seeing our family.  |  |    |  |   |
-| If we could have the power of telepathy, we should accept it. |  |    |  |   |
-| If we could write our own destiny, we should do it.  |  |    |  |   |
+| If superheroes existed, the world would be a better place.  | 20% | 33%   | 80% |  67% |
+| Right before we die, we would read a poem rather than seeing our family.  | 50% | 75%   | 50% | 25%  |
+| If we could have the power of telepathy, we should accept it. | 67% | 50%   | 33%  | 50%   |
+| If we could write our own destiny, we should do it.  | 29% | 13%   | 71% | 88%  |
 | After a complete loss of memory, we should not be responsible for our crimes committed before that.  |  |    |  |   |
 
 
