@@ -121,6 +121,7 @@ Harvard Medical School Dean’s Postdoctoral Fellow
 Massachusetts General Hospital, Musculoskeletal Genetics & Developmental Biology Laboratory (PI: Jenna Galloway, PhD)
 </p>
 Dr. Jason (Chang) Marvin is a Dean’s Postdoctoral Fellow in the Center for Regenerative Medicine at Massachusetts General Hospital (MGH) and the Department of Genetics at Harvard Medical School. He received his B.S. and Ph.D. in biomedical engineering from the University of Texas at Dallas and Cornell University, respectively. Their research leverages naturally regenerative animal models to study the biological mechanisms underlying effective musculoskeletal tissue repair and develop tailored therapeutic strategies. As a genderqueer and gay scientist, Dr. Marvin has received numerous accolades for championing institutional and national efforts (e.g., Out in STEM, Biomedical Engineering Society, Orthopaedic Research Society, BME Organizations Leading Diversity) focused on inclusive pedagogy, mentorship, and advocating for the support and retention of historically marginalized and minoritized communities in STEM. Their presentation will cover best practices in hypothesis testing, experimental design, and data analysis & visualization with an emphasis on the biological sciences and bioengineering research.  
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Students%20with%20Jason.JPG" width="50%"> 
 
 
 ## Sexual diversity examples to contextualise the concepts learnt
@@ -185,11 +186,11 @@ Image source: https://www.currentaffairs.org/2021/10/why-we-should-teach-kids-to
 | Debate Motion  | Starting Vote: PRO | Starting Vote: OPP | Closing Vote: PRO | Closing Vote: OPP
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Your partner escapes without you during an emergency, you should forgive them.  | Practice Only   |  Practice Only  |  Practice Only  |  Practice Only  |
-| If superheroes existed, the world would be a better place.  | 20% | 33%   | 80% |  67% |
-| Right before we die, we would read a poem rather than seeing our family.  | 50% | 75%   | 50% | 25%  |
-| If we could have the power of telepathy, we should accept it. | 67% | 50%   | 33%  | 50%   |
-| If we could write our own destiny, we should do it.  | 29% | 13%   | 71% | 88%  |
-| After a complete loss of memory, we should not be responsible for our crimes committed before that.  |  |    |  |   |
+| If superheroes existed, the world would be a better place.  | 20% | 80%  | 33% |  67% |
+| Right before we die, we would read a poem rather than seeing our family.  | 50% | 50%  | 75% | 25%  |
+| If we could have the power of telepathy, we should accept it. | 67% | 33%   | 50%  | 50%   |
+| If we could write our own destiny, we should do it.  | 29% | 71%  | 13% | 88%  |
+| After a complete loss of memory, we should not be responsible for our crimes committed before that.  | 71% | 29%   | 86% | 14%  |
 
 
 ## Group Projects using DeepLabCut on animals (20% of final grade)
