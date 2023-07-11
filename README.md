@@ -3,7 +3,7 @@
 
 # 2023 MAY to JULY: Introduction to Behavioural Research
 ## Instructor 
-Vic Chiang (he/him/his)
+Vic Shao-Chih Chiang 蔣紹志 (he/him/his)
 
 ## Course Content
 <img src="https://media.newyorker.com/photos/61169a9284b38b85152f2136/master/w_2240,c_limit/210823_r38857.jpg" width="50%"> 
@@ -190,7 +190,7 @@ Image source: https://www.currentaffairs.org/2021/10/why-we-should-teach-kids-to
 | Right before we die, we would read a poem rather than seeing our family.  | 50% | 50%  | 75% | 25%  |
 | If we could have the power of telepathy, we should accept it. | 67% | 33%   | 50%  | 50%   |
 | If we could write our own destiny, we should do it.  | 29% | 71%  | 13% | 88%  |
-| After a complete loss of memory, we should not be responsible for our crimes committed before that.  | 71% | 29%   | 86% | 14%  |
+| After a complete loss of memory, we should be responsible for our crimes committed before that.  | 71% | 29%   | 86% | 14%  |
 
 
 ## Group Projects using DeepLabCut on animals (20% of final grade)
@@ -224,6 +224,10 @@ Image source: http://www.mackenziemathislab.org/deeplabcut
 
 Project submissions using [Github](http://github.com) and [Jupyter Notebook](https://jupyter.org/) 
 </p>
+
+### Masai giraffe (Giraffa camelopardalis tippelskirchi)
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/Summer2023_Group.jpg" width="70%"> 
+<img src="https://github.com/vchiang001/Intro2BehvRes/blob/main/Images/MasaiGiraffe.gif" width="40%"> 
 
 
 
