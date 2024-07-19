@@ -3,7 +3,7 @@
 
 # 2022 SEP to DEC: Introduction to Behavioural Research
 ## Instructor 
-Vic Shao-Chih Chiang 蔣紹志 is a Taiwan-born New Zealander. He founded the Open Mind Discussion Forum to debate diverse controversial issues from opposing views. This enabled him to experience countless “Socratic maieutikè”, which fostered deeper cultural awareness within him. Stemming from this enlightenment, he aims to cultivate epistemological diversity, especially through the lens of marginalized communities. With this goal in mind and his mental health struggles, he is the co-founder of the award-winning, Toronto-based social impact venture, Savyn Tech. By the same token and because of his LGBTQ2S+ identity, his research focuses on the neuroscience of sexual diversity. He brings with him a plethora of research experiences from across the globe such as at Harvard Medical School, University College London, Tsinghua University (Beijing) etc, whilst recognising injustices exacerbated by elite institutions. On top of that, he was a DeepLabCut AI Resident in Geneva, using behaviomics to increase the accessibility of machine learning to marginalised communities. In Hong Kong, he volunteered for Health in Action, whose mission is to increase healthcare equity in marginalised communities. Mirroring the objectives of the Open Mind Discussion Forum, he co-started a video channel, “Thoughts Relativism”, to challenge our assumptions, impugn the status quo, and embrace plurality.
+Vic Chiang (they/them)
 
 ## Course Content
 <img src="https://media.newyorker.com/photos/61169a9284b38b85152f2136/master/w_2240,c_limit/210823_r38857.jpg" width="50%"> 
