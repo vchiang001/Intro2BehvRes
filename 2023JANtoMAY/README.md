@@ -3,7 +3,8 @@
 
 # 2023 JAN to MAY: Introduction to Behavioural Research
 ## Instructor 
-Vic Shao-Chih Chiang 蔣紹志 (he/him/his)
+Vic Chiang (they/them)
+
 ## Course Content
 <img src="https://media.newyorker.com/photos/61169a9284b38b85152f2136/master/w_2240,c_limit/210823_r38857.jpg" width="50%"> 
 Image source: https://www.newyorker.com/magazine/2021/08/23/why-is-it-so-hard-to-be-rational
